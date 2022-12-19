@@ -14,6 +14,7 @@ public class JdbcUtils {
 		Class.forName("com.mysql.jdbc.Driver");
 		Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/studentexam","root", "");
 		System.out.println("成功连接啦");
+		System.out.println("成功连接啦");
 		return con;
 	}
 }
