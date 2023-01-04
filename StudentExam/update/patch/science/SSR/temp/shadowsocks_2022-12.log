@@ -1,0 +1,2827 @@
+[2022-12-14 13:47:28] ShadowsocksR started on port 1080
+[2022-12-14 13:47:30] [Info] Direct connect clientservices.googleapis.com:443
+[2022-12-14 13:47:30] [Info] Connect accounts.google.com:443
+[2022-12-14 13:47:30] [Info] Connect www.google.com:443
+[2022-12-14 13:47:30] [Info] Connect everhelper.me:443
+[2022-12-14 13:47:30] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:47:30] [Info] Connect accounts.google.com:443
+[2022-12-14 13:47:31] [Info] Disconnect www.google.com:443
+[2022-12-14 13:47:31] [Info] Connect www.google.com:443
+[2022-12-14 13:47:31] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:47:31] [Info] Connect fvdspeeddial.com:443
+[2022-12-14 13:47:31] [Info] Connect ping.getadblock.com:443
+[2022-12-14 13:47:31] [Info] Disconnect www.google.com:443
+[2022-12-14 13:47:31] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:47:32] [Info] Disconnect everhelper.me:443
+[2022-12-14 13:47:32] [Info] Connect everhelper.me:443
+[2022-12-14 13:47:32] [Info] Disconnect fvdspeeddial.com:443
+[2022-12-14 13:47:32] [Info] Connect fvdspeeddial.com:443
+[2022-12-14 13:47:32] [Info] Disconnect ping.getadblock.com:443
+[2022-12-14 13:47:32] [Info] Connect ping.getadblock.com:443
+[2022-12-14 13:47:32] [Info] Disconnect everhelper.me:443
+[2022-12-14 13:47:32] [Info] Connect accounts.google.com:443
+[2022-12-14 13:47:32] [Info] Direct connect update.googleapis.com:443
+[2022-12-14 13:47:32] [Info] Disconnect ping.getadblock.com:443
+[2022-12-14 13:47:32] [Info] Connect 192.241.161.10:443
+[2022-12-14 13:47:33] [Info] Disconnect fvdspeeddial.com:443
+[2022-12-14 13:47:33] [Info] Connect storage.googleapis.com:443
+[2022-12-14 13:47:33] [Info] Disconnect 192.241.161.10:443
+[2022-12-14 13:47:33] [Info] Connect 192.241.161.10:443
+[2022-12-14 13:47:33] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:47:33] [Info] Connect accounts.google.com:443
+[2022-12-14 13:47:33] [Info] Direct connect www.google-analytics.com:443
+[2022-12-14 13:47:34] [Info] Disconnect storage.googleapis.com:443
+[2022-12-14 13:47:34] [Info] Connect storage.googleapis.com:443
+[2022-12-14 13:47:34] [Info] Disconnect 192.241.161.10:443
+[2022-12-14 13:47:34] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:47:34] [Info] Disconnect storage.googleapis.com:443
+[2022-12-14 13:47:34] [Info] Connect clients2.googleusercontent.com:443
+[2022-12-14 13:47:34] [Info] Connect www.google.com:443
+[2022-12-14 13:47:35] [Info] Disconnect www.google.com:443
+[2022-12-14 13:47:35] [Info] Connect www.google.com:443
+[2022-12-14 13:47:36] [Info] Connect accounts.google.com:443
+[2022-12-14 13:47:38] [Debug] DNS query fail: raw.githubusercontent.com
+[2022-12-14 13:47:38] [Info] Connect raw.githubusercontent.com:443
+[2022-12-14 13:47:39] [Error] connect to update server error
+[2022-12-14 13:47:39] [Info] Disconnect raw.githubusercontent.com:443
+[2022-12-14 13:47:40] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 13:47:40] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 13:47:40] [Info] Direct connect ssl.gstatic.com:443
+[2022-12-14 13:47:40] [Info] Connect play.google.com:443
+[2022-12-14 13:47:41] [Info] Connect play.google.com:443
+[2022-12-14 13:47:41] [Info] Connect play.google.com:443
+[2022-12-14 13:47:41] [Info] Disconnect play.google.com:443
+[2022-12-14 13:47:42] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-12-14 13:47:43] [Info] Disconnect play.google.com:443
+[2022-12-14 13:47:43] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-12-14 13:47:44] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-12-14 13:47:44] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-12-14 13:47:44] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-12-14 13:47:45] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-12-14 13:47:48] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:47:50] [Info] Connect blacklist.tampermonkey.net:443
+[2022-12-14 13:47:58] [Info] Direct connect api.bilibili.com:443
+[2022-12-14 13:48:04] [Info] Connect accounts.google.com:443
+[2022-12-14 13:48:05] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2022-12-14 13:48:05] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:48:06] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 13:48:06] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 13:48:06] [Info] Direct connect ssl.gstatic.com:443
+[2022-12-14 13:48:06] [Info] Connect play.google.com:443
+[2022-12-14 13:48:07] [Info] Disconnect blacklist.tampermonkey.net:443
+[2022-12-14 13:48:07] [Info] Connect play.google.com:443
+[2022-12-14 13:48:07] [Info] Connect play.google.com:443
+[2022-12-14 13:48:07] [Info] Connect www.google.com:443
+[2022-12-14 13:48:07] [Info] Disconnect play.google.com:443
+[2022-12-14 13:48:07] [Info] Disconnect play.google.com:443
+[2022-12-14 13:48:09] [Info] Direct connect data.bilibili.com:443
+[2022-12-14 13:48:19] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 13:48:22] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:48:29] [Info] Direct connect update.googleapis.com:443
+[2022-12-14 13:48:31] [Info] Connect v10.events.data.microsoft.com:443
+[2022-12-14 13:48:31] [Info] Connect easylist-downloads.adblockplus.org:443
+[2022-12-14 13:48:31] [Info] Connect easylist-downloads.adblockplus.org:443
+[2022-12-14 13:48:31] [Info] Connect easylist-downloads.adblockplus.org:443
+[2022-12-14 13:48:31] [Info] Connect easylist-downloads.adblockplus.org:443
+[2022-12-14 13:48:31] [Info] Connect cdn.adblockcdn.com:443
+[2022-12-14 13:48:32] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2022-12-14 13:48:32] [Info] Connect easylist-downloads.adblockplus.org:443
+[2022-12-14 13:48:32] [Info] Disconnect v10.events.data.microsoft.com:443
+[2022-12-14 13:48:34] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:48:34] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:48:38] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2022-12-14 13:48:38] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2022-12-14 13:48:38] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2022-12-14 13:48:39] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:48:39] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:48:39] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:48:45] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:48:45] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:48:48] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:48:48] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:48:50] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:48:50] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:48:52] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:48:52] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:48:53] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2022-12-14 13:48:54] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:48:54] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:48:56] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:48:56] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:48:57] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:48:58] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:48:58] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:49:00] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:00] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:49:01] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:01] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:49:02] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:02] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:49:03] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2022-12-14 13:49:03] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2022-12-14 13:49:03] [Info] Direct connect ssl.ptlogin2.mail.qq.com:443
+[2022-12-14 13:49:03] [Info] Direct connect mail.qq.com:443
+[2022-12-14 13:49:03] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:03] [Info] Direct connect wx.mail.qq.com:443
+[2022-12-14 13:49:03] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:49:04] [Info] Direct connect rescdn.qqmail.com:443
+[2022-12-14 13:49:04] [Info] Direct connect rl.mail.qq.com:443
+[2022-12-14 13:49:04] [Info] Direct connect js.aq.qq.com:443
+[2022-12-14 13:49:04] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:04] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:49:05] [Info] Direct connect www.gstatic.com:443
+[2022-12-14 13:49:05] [Info] Connect cn.gravatar.com:443
+[2022-12-14 13:49:05] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:05] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:49:06] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:07] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:49:07] [Info] Disconnect cn.gravatar.com:443
+[2022-12-14 13:49:07] [Info] Connect cn.gravatar.com:443
+[2022-12-14 13:49:07] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:08] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:49:08] [Info] Connect i1.wp.com:443
+[2022-12-14 13:49:09] [Info] Connect accounts.google.com:443
+[2022-12-14 13:49:09] [Info] Direct connect wp.mail.qq.com:443
+[2022-12-14 13:49:11] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:11] [Info] Direct connect r4---sn-j5o76n7l.gvt1.com:80
+[2022-12-14 13:49:11] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:11] [Info] Direct connect r4---sn-j5o76n7l.gvt1.com:80
+[2022-12-14 13:49:14] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:49:14] [Info] Direct connect api.vc.bilibili.com:443
+[2022-12-14 13:49:15] [Debug] DNS query fail: ipv6.msftconnecttest.com
+[2022-12-14 13:49:15] [Info] Connect ipv6.msftconnecttest.com:80
+[2022-12-14 13:49:16] [Info] Disconnect ipv6.msftconnecttest.com:80
+[2022-12-14 13:49:20] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:20] [Info] Direct connect r4---sn-j5o7dn7e.gvt1.com:80
+[2022-12-14 13:49:20] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:20] [Info] Direct connect r4---sn-j5o7dn7e.gvt1.com:80
+[2022-12-14 13:49:24] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-12-14 13:49:24] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:25] [Info] Direct connect r2---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:49:25] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:25] [Info] Direct connect r2---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:49:25] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-12-14 13:49:25] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-12-14 13:49:26] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-12-14 13:49:28] [Info] Connect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:29] [Info] Connect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:29] [Info] Disconnect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:30] [Info] Disconnect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:31] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:49:32] [Info] Connect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:32] [Info] Disconnect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:33] [Info] Connect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:34] [Info] Disconnect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:35] [Info] Connect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:36] [Info] Disconnect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:36] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:37] [Info] Connect self.events.data.microsoft.com:443
+[2022-12-14 13:49:37] [Info] Direct connect r2---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:49:37] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:37] [Info] Direct connect r2---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:49:37] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-12-14 13:49:38] [Info] Disconnect clients2.googleusercontent.com:443
+[2022-12-14 13:49:38] [Info] Disconnect cn.gravatar.com:443
+[2022-12-14 13:49:39] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:39] [Info] Direct connect r2---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:49:40] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:40] [Info] Direct connect r2---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:49:41] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:41] [Info] Direct connect r2---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 13:49:42] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 13:49:42] [Info] Disconnect www.google.com:443
+[2022-12-14 13:49:44] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-12-14 13:49:45] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:45] [Info] Direct connect r3---sn-j5o76n7l.gvt1.com:80
+[2022-12-14 13:49:45] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:45] [Info] Direct connect r3---sn-j5o76n7l.gvt1.com:80
+[2022-12-14 13:49:46] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-12-14 13:49:46] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:46] [Info] Direct connect r3---sn-j5o76n7l.gvt1.com:80
+[2022-12-14 13:49:48] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 13:49:48] [Info] Direct connect r3---sn-j5o76n7l.gvt1.com:80
+[2022-12-14 13:49:48] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:49:49] [Info] Connect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:50] [Info] Connect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:50] [Info] Disconnect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:51] [Info] Disconnect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:51] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:49:51] [Info] Disconnect cdn.adblockcdn.com:443
+[2022-12-14 13:49:51] [Info] Disconnect play.google.com:443
+[2022-12-14 13:49:51] [Info] Connect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:52] [Info] Disconnect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:53] [Info] Connect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:54] [Info] Disconnect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:56] [Info] Connect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:57] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:49:57] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:49:57] [Info] Disconnect edgedl.me.gvt1.com:80
+[2022-12-14 13:49:57] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:49:58] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:49:58] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:49:58] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:49:58] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:49:58] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:49:59] [Info] Connect edgedl.me.gvt1.com:80
+[2022-12-14 13:50:00] [Info] Disconnect edgedl.me.gvt1.com:80
+[2022-12-14 13:50:00] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:50:01] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:50:01] [Info] Connect edgedl.me.gvt1.com:80
+[2022-12-14 13:50:01] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:50:01] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:50:01] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:50:01] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:50:01] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:50:02] [Info] Disconnect edgedl.me.gvt1.com:80
+[2022-12-14 13:50:02] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:50:02] [Info] Connect edgedl.me.gvt1.com:80
+[2022-12-14 13:50:03] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:50:03] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:50:03] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:50:03] [Info] Disconnect edgedl.me.gvt1.com:80
+[2022-12-14 13:50:04] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:50:04] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:50:05] [Info] Direct connect www.baidu.com:443
+[2022-12-14 13:50:05] [Info] Direct connect www.baidu.com:443
+[2022-12-14 13:50:05] [Info] Direct connect pss.bdstatic.com:443
+[2022-12-14 13:50:05] [Info] Direct connect www.baidu.com:443
+[2022-12-14 13:50:05] [Info] Direct connect www.baidu.com:443
+[2022-12-14 13:50:05] [Info] Direct connect www.baidu.com:443
+[2022-12-14 13:50:05] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:50:05] [Info] Direct connect pss.bdstatic.com:443
+[2022-12-14 13:50:05] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 13:50:05] [Info] Disconnect i1.wp.com:443
+[2022-12-14 13:50:05] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:50:05] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-12-14 13:50:05] [Info] Disconnect www.google.com:443
+[2022-12-14 13:50:05] [Info] Disconnect play.google.com:443
+[2022-12-14 13:50:05] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-12-14 13:50:05] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:50:05] [Info] Direct connect dss0.bdstatic.com:443
+[2022-12-14 13:50:05] [Info] Direct connect t8.baidu.com:443
+[2022-12-14 13:50:05] [Info] Direct connect dss2.bdstatic.com:443
+[2022-12-14 13:50:05] [Info] Direct connect t14.baidu.com:443
+[2022-12-14 13:50:05] [Info] Direct connect gimg3.baidu.com:443
+[2022-12-14 13:50:05] [Info] Direct connect t9.baidu.com:443
+[2022-12-14 13:50:05] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-12-14 13:50:05] [Info] Direct connect nv00.cdn.bcebos.com:443
+[2022-12-14 13:50:06] [Info] Direct connect fclick.baidu.com:443
+[2022-12-14 13:50:06] [Info] Direct connect fclick.baidu.com:443
+[2022-12-14 13:50:06] [Info] Direct connect fclick.baidu.com:443
+[2022-12-14 13:50:06] [Info] Direct connect sp1.baidu.com:443
+[2022-12-14 13:50:06] [Info] Direct connect sp1.baidu.com:443
+[2022-12-14 13:50:06] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 13:50:06] [Info] Direct connect b.bdstatic.com:443
+[2022-12-14 13:50:06] [Info] Direct connect hpd.baidu.com:443
+[2022-12-14 13:50:06] [Info] Direct connect ug.baidu.com:443
+[2022-12-14 13:50:06] [Info] Direct connect ug.baidu.com:443
+[2022-12-14 13:50:11] [Info] Connect accounts.google.com:443
+[2022-12-14 13:50:12] [Info] Direct connect pcrec.baidu.com:443
+[2022-12-14 13:50:12] [Info] Direct connect blog.aftss.cn:443
+[2022-12-14 13:50:12] [Info] Direct connect blog.aftss.cn:443
+[2022-12-14 13:50:12] [Info] Direct connect sdk.51.la:443
+[2022-12-14 13:50:12] [Info] Direct connect apps.bdimg.com:443
+[2022-12-14 13:50:12] [Info] Direct connect cravatar.cn:443
+[2022-12-14 13:50:12] [Info] Direct connect hm.baidu.com:443
+[2022-12-14 13:50:12] [Info] Direct connect apps.bdimg.com:443
+[2022-12-14 13:50:12] [Info] Direct connect static.yunaq.com:443
+[2022-12-14 13:50:12] [Info] Direct connect static.yunaq.com:443
+[2022-12-14 13:50:12] [Info] Direct connect at.alicdn.com:443
+[2022-12-14 13:50:12] [Info] Connect collect-v6.51.la:443
+[2022-12-14 13:50:12] [Info] Direct connect hm.baidu.com:443
+[2022-12-14 13:50:12] [Info] Connect www.dede58.com:443
+[2022-12-14 13:50:12] [Info] Direct connect yxy.aftss.net:443
+[2022-12-14 13:50:22] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:50:26] [Info] Connect accounts.google.com:443
+[2022-12-14 13:50:27] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:50:27] [Info] Connect accounts.google.com:443
+[2022-12-14 13:50:27] [Info] Direct connect api.vc.bilibili.com:443
+[2022-12-14 13:50:39] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:50:40] [Info] Direct connect open.weixin.qq.com:443
+[2022-12-14 13:50:40] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 13:50:40] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 13:50:40] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 13:50:40] [Info] Direct connect tim.qq.com:443
+[2022-12-14 13:50:41] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:50:44] [Info] Disconnect collect-v6.51.la:443
+[2022-12-14 13:50:49] [Info] Connect translate.googleapis.com:443
+[2022-12-14 13:50:58] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:51:15] [Info] Disconnect www.dede58.com:443
+[2022-12-14 13:51:15] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:51:31] [Info] Direct connect support.weixin.qq.com:443
+[2022-12-14 13:51:33] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:51:40] [Info] Direct connect fclick.baidu.com:443
+[2022-12-14 13:51:42] [Info] Direct connect sp1.baidu.com:443
+[2022-12-14 13:51:42] [Info] Direct connect pcrec.baidu.com:443
+[2022-12-14 13:51:42] [Info] Direct connect www.baidu.com:443
+[2022-12-14 13:51:42] [Info] Direct connect www.baidu.com:443
+[2022-12-14 13:51:42] [Info] Direct connect pss.bdstatic.com:443
+[2022-12-14 13:51:42] [Info] Direct connect zhuanlan.zhihu.com:443
+[2022-12-14 13:51:42] [Info] Direct connect zhuanlan.zhihu.com:443
+[2022-12-14 13:51:42] [Info] Direct connect static.zhihu.com:443
+[2022-12-14 13:51:42] [Info] Direct connect static.zhihu.com:443
+[2022-12-14 13:51:42] [Info] Direct connect hm.baidu.com:443
+[2022-12-14 13:51:42] [Info] Direct connect unpkg.zhimg.com:443
+[2022-12-14 13:51:42] [Info] Direct connect picx.zhimg.com:443
+[2022-12-14 13:51:43] [Info] Direct connect zz.bdstatic.com:443
+[2022-12-14 13:51:43] [Info] Direct connect www.zhihu.com:443
+[2022-12-14 13:51:43] [Info] Direct connect sugar.zhihu.com:443
+[2022-12-14 13:51:43] [Info] Direct connect pic3.zhimg.com:443
+[2022-12-14 13:51:43] [Info] Direct connect www.zhihu.com:443
+[2022-12-14 13:51:43] [Info] Direct connect sp0.baidu.com:443
+[2022-12-14 13:51:43] [Info] Direct connect pic1.zhimg.com:443
+[2022-12-14 13:51:43] [Info] Direct connect 118.89.204.198:443
+[2022-12-14 13:51:43] [Info] Direct connect datahub.zhihu.com:443
+[2022-12-14 13:51:43] [Info] Direct connect pic4.zhimg.com:443
+[2022-12-14 13:51:43] [Info] Direct connect zhihu-web-analytics.zhihu.com:443
+[2022-12-14 13:51:43] [Info] Direct connect cstaticdun.126.net:443
+[2022-12-14 13:51:43] [Info] Direct connect captcha.zhihu.com:443
+[2022-12-14 13:51:44] [Info] Direct connect cstaticdun.126.net:443
+[2022-12-14 13:51:44] [Info] Direct connect da.dun.163.com:443
+[2022-12-14 13:51:44] [Info] Direct connect c.dun.163.com:443
+[2022-12-14 13:51:44] [Info] Direct connect cstaticdun.126.net:443
+[2022-12-14 13:51:44] [Info] Direct connect apm.zhihu.com:443
+[2022-12-14 13:51:44] [Info] Direct connect acstatic-dun.126.net:443
+[2022-12-14 13:51:44] [Info] Direct connect cstaticdun.126.net:443
+[2022-12-14 13:51:44] [Info] Direct connect ac.dun.163.com:443
+[2022-12-14 13:51:44] [Info] Direct connect zhihu-web-analytics.zhihu.com:443
+[2022-12-14 13:51:44] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:51:44] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:51:44] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 13:51:44] [Info] Direct connect ac.dun.163.com:443
+[2022-12-14 13:51:46] [Info] Direct connect pic2.zhimg.com:443
+[2022-12-14 13:51:46] [Info] Direct connect static.zhihu.com:443
+[2022-12-14 13:51:46] [Info] Direct connect pic1.zhimg.com:443
+[2022-12-14 13:51:50] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:52:06] [Info] Direct connect api.bilibili.com:443
+[2022-12-14 13:52:07] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:52:09] [Info] Direct connect pic4.zhimg.com:443
+[2022-12-14 13:52:24] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:52:27] [Info] Direct connect api.vc.bilibili.com:443
+[2022-12-14 13:52:35] [Info] Direct connect pic3.zhimg.com:443
+[2022-12-14 13:52:38] [Debug] DNS query fail: raw.githubusercontent.com
+[2022-12-14 13:52:38] [Info] Connect raw.githubusercontent.com:443
+[2022-12-14 13:52:39] [Info] Disconnect raw.githubusercontent.com:443
+[2022-12-14 13:52:39] [Debug] DNS query fail: raw.githubusercontent.com
+[2022-12-14 13:52:39] [Info] Connect raw.githubusercontent.com:443
+[2022-12-14 13:52:40] [Error] connect to update server error
+[2022-12-14 13:52:40] [Info] Disconnect raw.githubusercontent.com:443
+[2022-12-14 13:52:41] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:52:52] [Info] Disconnect translate.googleapis.com:443
+[2022-12-14 13:52:54] [Info] Connect accounts.google.com:443
+[2022-12-14 13:52:54] [Info] Direct connect ssl.gstatic.com:443
+[2022-12-14 13:52:54] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 13:52:56] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 13:52:56] [Info] Connect play.google.com:443
+[2022-12-14 13:52:57] [Info] Connect play.google.com:443
+[2022-12-14 13:52:57] [Info] Connect passwordsleakcheck-pa.googleapis.com:443
+[2022-12-14 13:52:57] [Info] Connect play.google.com:443
+[2022-12-14 13:52:57] [Info] Disconnect play.google.com:443
+[2022-12-14 13:52:57] [Info] Disconnect play.google.com:443
+[2022-12-14 13:52:58] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:53:16] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:53:33] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:53:50] [Info] Connect self.events.data.microsoft.com:443
+[2022-12-14 13:53:50] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:53:51] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-12-14 13:54:07] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:54:08] [Info] Connect clients2.google.com:443
+[2022-12-14 13:54:09] [Info] Disconnect clients2.google.com:443
+[2022-12-14 13:54:09] [Info] Connect clients2.google.com:443
+[2022-12-14 13:54:10] [Info] Disconnect clients2.google.com:443
+[2022-12-14 13:54:10] [Info] Connect accounts.google.com:443
+[2022-12-14 13:54:10] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:54:10] [Info] Connect accounts.google.com:443
+[2022-12-14 13:54:11] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:54:14] [Info] Direct connect data.bilibili.com:443
+[2022-12-14 13:54:14] [Info] Direct connect api.vc.bilibili.com:443
+[2022-12-14 13:54:14] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2022-12-14 13:54:22] [Info] Connect github.com:443
+[2022-12-14 13:54:22] [Info] Connect github.com:443
+[2022-12-14 13:54:23] [Info] Disconnect github.com:443
+[2022-12-14 13:54:23] [Info] Disconnect github.com:443
+[2022-12-14 13:54:23] [Info] Connect github.com:443
+[2022-12-14 13:54:23] [Info] Connect github.com:443
+[2022-12-14 13:54:24] [Info] Disconnect github.com:443
+[2022-12-14 13:54:24] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:54:24] [Info] Connect github.githubassets.com:443
+[2022-12-14 13:54:24] [Info] Connect github.githubassets.com:443
+[2022-12-14 13:54:24] [Info] Connect github.githubassets.com:443
+[2022-12-14 13:54:24] [Info] Connect github.githubassets.com:443
+[2022-12-14 13:54:24] [Info] Connect github.githubassets.com:443
+[2022-12-14 13:54:24] [Info] Connect github.githubassets.com:443
+[2022-12-14 13:54:24] [Info] Connect avatars.githubusercontent.com:443
+[2022-12-14 13:54:25] [Info] Connect github.githubassets.com:443
+[2022-12-14 13:54:25] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 13:54:25] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 13:54:25] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 13:54:25] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 13:54:27] [Info] Connect collector.github.com:443
+[2022-12-14 13:54:27] [Info] Connect api.github.com:443
+[2022-12-14 13:54:28] [Info] Connect alive.github.com:443
+[2022-12-14 13:54:28] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 13:54:28] [Info] Disconnect collector.github.com:443
+[2022-12-14 13:54:28] [Info] Connect collector.github.com:443
+[2022-12-14 13:54:29] [Info] Disconnect collector.github.com:443
+[2022-12-14 13:54:32] [Info] Disconnect alive.github.com:443
+[2022-12-14 13:54:41] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:54:49] [Info] Direct connect hm.baidu.com:443
+[2022-12-14 13:54:56] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2022-12-14 13:54:56] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2022-12-14 13:54:56] [Info] Direct connect ssl.ptlogin2.mail.qq.com:443
+[2022-12-14 13:54:56] [Info] Direct connect mail.qq.com:443
+[2022-12-14 13:54:56] [Info] Direct connect wx.mail.qq.com:443
+[2022-12-14 13:54:56] [Info] Direct connect rescdn.qqmail.com:443
+[2022-12-14 13:54:56] [Info] Direct connect rl.mail.qq.com:443
+[2022-12-14 13:54:56] [Info] Direct connect js.aq.qq.com:443
+[2022-12-14 13:54:57] [Info] Direct connect www.gstatic.com:443
+[2022-12-14 13:54:57] [Info] Connect cn.gravatar.com:443
+[2022-12-14 13:54:58] [Info] Disconnect cn.gravatar.com:443
+[2022-12-14 13:54:58] [Info] Connect cn.gravatar.com:443
+[2022-12-14 13:54:59] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:54:59] [Info] Disconnect cn.gravatar.com:443
+[2022-12-14 13:54:59] [Info] Direct connect wp.mail.qq.com:443
+[2022-12-14 13:55:00] [Info] Disconnect passwordsleakcheck-pa.googleapis.com:443
+[2022-12-14 13:55:01] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:01] [Info] Disconnect avatars.githubusercontent.com:443
+[2022-12-14 13:55:01] [Info] Disconnect github.com:443
+[2022-12-14 13:55:01] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 13:55:01] [Info] Disconnect api.github.com:443
+[2022-12-14 13:55:01] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 13:55:02] [Info] Connect play.google.com:443
+[2022-12-14 13:55:03] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:03] [Info] Connect play.google.com:443
+[2022-12-14 13:55:03] [Info] Connect play.google.com:443
+[2022-12-14 13:55:03] [Info] Connect play.google.com:443
+[2022-12-14 13:55:03] [Info] Connect play.google.com:443
+[2022-12-14 13:55:04] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:04] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:04] [Info] Connect play.google.com:443
+[2022-12-14 13:55:04] [Info] Connect play.google.com:443
+[2022-12-14 13:55:04] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:04] [Info] Connect play.google.com:443
+[2022-12-14 13:55:04] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:04] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:05] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:06] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:06] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:06] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 13:55:08] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:08] [Info] Connect play.google.com:443
+[2022-12-14 13:55:09] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:09] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:09] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:09] [Info] Connect play.google.com:443
+[2022-12-14 13:55:09] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:10] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:10] [Info] Connect play.google.com:443
+[2022-12-14 13:55:10] [Info] Connect play.google.com:443
+[2022-12-14 13:55:10] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:10] [Info] Connect play.google.com:443
+[2022-12-14 13:55:11] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:11] [Info] Connect play.google.com:443
+[2022-12-14 13:55:11] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:11] [Info] Connect play.google.com:443
+[2022-12-14 13:55:11] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:12] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:12] [Info] Connect play.google.com:443
+[2022-12-14 13:55:12] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:12] [Info] Connect play.google.com:443
+[2022-12-14 13:55:12] [Info] Connect play.google.com:443
+[2022-12-14 13:55:12] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:12] [Info] Connect play.google.com:443
+[2022-12-14 13:55:13] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:13] [Info] Connect play.google.com:443
+[2022-12-14 13:55:13] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:14] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:14] [Info] Connect play.google.com:443
+[2022-12-14 13:55:14] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:14] [Info] Connect play.google.com:443
+[2022-12-14 13:55:14] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:14] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 13:55:15] [Info] Connect play.google.com:443
+[2022-12-14 13:55:15] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:15] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:15] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:15] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:15] [Info] Connect play.google.com:443
+[2022-12-14 13:55:15] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:16] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:16] [Info] Connect play.google.com:443
+[2022-12-14 13:55:16] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:55:16] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:16] [Info] Connect play.google.com:443
+[2022-12-14 13:55:16] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:16] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:16] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:16] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:16] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:17] [Info] Disconnect play.google.com:443
+[2022-12-14 13:55:17] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:17] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:18] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:18] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:18] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:18] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:19] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:19] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:20] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:20] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:21] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:22] [Info] Direct connect hm.baidu.com:443
+[2022-12-14 13:55:26] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:27] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:27] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:27] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:30] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:31] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:31] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:32] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:32] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:33] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:55:33] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:33] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:34] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:35] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:35] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:35] [Info] Connect accounts.google.com:443
+[2022-12-14 13:55:36] [Info] Disconnect accounts.google.com:443
+[2022-12-14 13:55:36] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:55:36] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:55:36] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 13:55:43] [Info] Direct connect www.baidu.com:443
+[2022-12-14 13:55:43] [Info] Direct connect www.baidu.com:443
+[2022-12-14 13:55:43] [Info] Direct connect pss.bdstatic.com:443
+[2022-12-14 13:55:43] [Info] Direct connect www.baidu.com:443
+[2022-12-14 13:55:43] [Info] Direct connect www.baidu.com:443
+[2022-12-14 13:55:43] [Info] Direct connect www.baidu.com:443
+[2022-12-14 13:55:43] [Info] Direct connect sp1.baidu.com:443
+[2022-12-14 13:55:43] [Info] Direct connect pss.bdstatic.com:443
+[2022-12-14 13:55:43] [Info] Direct connect gimg3.baidu.com:443
+[2022-12-14 13:55:43] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-12-14 13:55:43] [Info] Direct connect t7.baidu.com:443
+[2022-12-14 13:55:44] [Info] Direct connect sp1.baidu.com:443
+[2022-12-14 13:55:44] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 13:55:44] [Info] Direct connect b.bdstatic.com:443
+[2022-12-14 13:55:44] [Info] Direct connect hpd.baidu.com:443
+[2022-12-14 13:55:44] [Info] Direct connect ug.baidu.com:443
+[2022-12-14 13:55:44] [Info] Direct connect ug.baidu.com:443
+[2022-12-14 13:55:44] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 13:55:44] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 13:55:44] [Info] Direct connect pcrec.baidu.com:443
+[2022-12-14 13:55:44] [Info] Connect www.google.com:443
+[2022-12-14 13:55:45] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 13:55:45] [Info] Disconnect www.google.com:443
+[2022-12-14 13:55:45] [Info] Connect www.google.com:443
+[2022-12-14 13:55:45] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 13:55:45] [Info] Connect self.events.data.microsoft.com:443
+[2022-12-14 13:55:45] [Info] Disconnect www.google.com:443
+[2022-12-14 13:55:46] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 13:55:46] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 13:55:46] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-12-14 13:55:46] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 13:55:47] [Info] Connect www.google.com:443
+[2022-12-14 13:55:48] [Info] Disconnect www.google.com:443
+[2022-12-14 13:55:48] [Info] Connect www.google.com:443
+[2022-12-14 13:55:48] [Info] Connect www.google.com:443
+[2022-12-14 13:55:48] [Info] Disconnect www.google.com:443
+[2022-12-14 13:55:48] [Info] Connect www.google.com:443
+[2022-12-14 13:55:48] [Info] Disconnect www.google.com:443
+[2022-12-14 13:55:49] [Info] Disconnect www.google.com:443
+[2022-12-14 13:55:50] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:55:50] [Info] Direct connect open.weixin.qq.com:443
+[2022-12-14 13:55:51] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 13:55:51] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 13:55:51] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 13:55:51] [Info] Direct connect tim.qq.com:443
+[2022-12-14 13:55:52] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:58:47] ShadowsocksR started on port 1080
+[2022-12-14 13:58:49] [Info] Direct connect api.bilibili.com:443
+[2022-12-14 13:58:50] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2022-12-14 13:58:54] [Info] Connect ecs.office.com:443
+[2022-12-14 13:58:54] [Info] Connect login.live.com:443
+[2022-12-14 13:58:54] [Info] Connect omex.cdn.office.net:443
+[2022-12-14 13:58:54] [Info] Connect login.live.com:443
+[2022-12-14 13:58:54] [Info] Disconnect ecs.office.com:443
+[2022-12-14 13:58:54] [Info] Disconnect omex.cdn.office.net:443
+[2022-12-14 13:58:54] [Info] Disconnect login.live.com:443
+[2022-12-14 13:58:54] [Info] Connect login.live.com:443
+[2022-12-14 13:58:55] [Info] Connect login.live.com:443
+[2022-12-14 13:58:55] [Info] Direct connect cidian.youdao.com:80
+[2022-12-14 13:58:55] [Info] Disconnect login.live.com:443
+[2022-12-14 13:58:55] [Info] Connect login.live.com:443
+[2022-12-14 13:58:55] [Info] Disconnect login.live.com:443
+[2022-12-14 13:58:55] [Info] Connect login.live.com:443
+[2022-12-14 13:58:55] [Info] Disconnect login.live.com:443
+[2022-12-14 13:58:55] [Info] Connect login.live.com:443
+[2022-12-14 13:58:56] [Info] Connect substrate.office.com:443
+[2022-12-14 13:58:56] [Info] Disconnect login.live.com:443
+[2022-12-14 13:58:56] [Info] Disconnect login.live.com:443
+[2022-12-14 13:58:56] [Info] Disconnect login.live.com:443
+[2022-12-14 13:58:56] [Info] Connect login.live.com:443
+[2022-12-14 13:58:57] [Debug] DNS query fail: raw.githubusercontent.com
+[2022-12-14 13:58:57] [Info] Connect raw.githubusercontent.com:443
+[2022-12-14 13:58:57] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:58:57] [Info] Disconnect login.live.com:443
+[2022-12-14 13:58:57] [Info] Connect login.live.com:443
+[2022-12-14 13:58:58] [Error] connect to update server error
+[2022-12-14 13:58:58] [Info] Disconnect raw.githubusercontent.com:443
+[2022-12-14 13:58:58] [Info] Connect login.live.com:443
+[2022-12-14 13:58:58] [Info] Disconnect substrate.office.com:443
+[2022-12-14 13:58:59] [Info] Connect messaging.engagement.office.com:443
+[2022-12-14 13:58:59] [Info] Disconnect login.live.com:443
+[2022-12-14 13:59:00] [Info] Connect ocws.officeapps.live.com:443
+[2022-12-14 13:59:00] [Info] Connect ocws.officeapps.live.com:443
+[2022-12-14 13:59:00] [Info] Connect nleditor.osi.office.net:443
+[2022-12-14 13:59:00] [Info] Disconnect login.live.com:443
+[2022-12-14 13:59:00] [Info] Connect login.live.com:443
+[2022-12-14 13:59:02] [Info] Connect substrate.office.com:443
+[2022-12-14 13:59:02] [Info] Disconnect login.live.com:443
+[2022-12-14 13:59:05] [Info] Connect self.events.data.microsoft.com:443
+[2022-12-14 13:59:05] [Info] Disconnect substrate.office.com:443
+[2022-12-14 13:59:06] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-12-14 13:59:07] [Info] Disconnect messaging.engagement.office.com:443
+[2022-12-14 13:59:07] [Info] Disconnect nleditor.osi.office.net:443
+[2022-12-14 13:59:07] [Info] Disconnect ocws.officeapps.live.com:443
+[2022-12-14 13:59:07] [Info] Disconnect ocws.officeapps.live.com:443
+[2022-12-14 13:59:14] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:59:14] [Info] Direct connect data.bilibili.com:443
+[2022-12-14 13:59:29] [Info] Connect accounts.google.com:443
+[2022-12-14 13:59:29] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 13:59:29] [Info] Direct connect ssl.gstatic.com:443
+[2022-12-14 13:59:31] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 13:59:31] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 13:59:31] [Info] Connect play.google.com:443
+[2022-12-14 13:59:31] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 13:59:31] [Info] Connect play.google.com:443
+[2022-12-14 13:59:31] [Info] Connect passwordsleakcheck-pa.googleapis.com:443
+[2022-12-14 13:59:31] [Info] Connect www.google.com:443
+[2022-12-14 13:59:31] [Info] Connect play.google.com:443
+[2022-12-14 13:59:32] [Info] Disconnect play.google.com:443
+[2022-12-14 13:59:32] [Info] Disconnect play.google.com:443
+[2022-12-14 13:59:38] [Info] Connect self.events.data.microsoft.com:443
+[2022-12-14 13:59:39] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-12-14 13:59:48] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:00:06] [Info] Disconnect play.google.com:443
+[2022-12-14 14:00:06] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 14:00:06] [Info] Disconnect www.google.com:443
+[2022-12-14 14:00:06] [Info] Disconnect passwordsleakcheck-pa.googleapis.com:443
+[2022-12-14 14:00:06] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:00:06] [Info] Disconnect accounts.google.com:443
+[2022-12-14 14:00:07] [Info] Connect accounts.google.com:443
+[2022-12-14 14:00:07] [Info] Connect play.google.com:443
+[2022-12-14 14:00:08] [Info] Disconnect accounts.google.com:443
+[2022-12-14 14:00:08] [Info] Connect accounts.google.com:443
+[2022-12-14 14:00:10] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 14:00:14] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2022-12-14 14:00:14] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2022-12-14 14:00:14] [Info] Direct connect ssl.ptlogin2.mail.qq.com:443
+[2022-12-14 14:00:14] [Info] Direct connect mail.qq.com:443
+[2022-12-14 14:00:14] [Info] Direct connect wx.mail.qq.com:443
+[2022-12-14 14:00:14] [Info] Direct connect api.vc.bilibili.com:443
+[2022-12-14 14:00:15] [Info] Connect cn.gravatar.com:443
+[2022-12-14 14:00:16] [Info] Connect i1.wp.com:443
+[2022-12-14 14:00:17] [Info] Direct connect rl.mail.qq.com:443
+[2022-12-14 14:00:17] [Info] Direct connect wp.mail.qq.com:443
+[2022-12-14 14:00:23] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:00:31] [Info] Connect accounts.google.com:443
+[2022-12-14 14:00:40] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:00:47] [Info] Disconnect cn.gravatar.com:443
+[2022-12-14 14:00:57] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:00:57] [Info] Direct connect open.weixin.qq.com:443
+[2022-12-14 14:00:58] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 14:00:58] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 14:00:58] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 14:00:58] [Info] Direct connect tim.qq.com:443
+[2022-12-14 14:00:59] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:01:12] [Debug] DNS query fail: ipv6.msftconnecttest.com
+[2022-12-14 14:01:12] [Info] Connect ipv6.msftconnecttest.com:80
+[2022-12-14 14:01:12] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 14:01:12] [Info] Disconnect ipv6.msftconnecttest.com:80
+[2022-12-14 14:01:13] [Info] Direct connect www.gstatic.com:443
+[2022-12-14 14:01:13] [Info] Connect passwordsleakcheck-pa.googleapis.com:443
+[2022-12-14 14:01:16] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:01:32] [Info] Disconnect i1.wp.com:443
+[2022-12-14 14:01:33] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:01:36] [Info] Direct connect rescdn.qqmail.com:443
+[2022-12-14 14:01:50] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:02:07] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:02:11] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2022-12-14 14:02:11] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2022-12-14 14:02:11] [Info] Direct connect ssl.ptlogin2.mail.qq.com:443
+[2022-12-14 14:02:11] [Info] Direct connect wx.mail.qq.com:443
+[2022-12-14 14:02:12] [Info] Direct connect wp.mail.qq.com:443
+[2022-12-14 14:02:13] [Info] Direct connect rescdn.qqmail.com:443
+[2022-12-14 14:02:14] [Info] Direct connect api.vc.bilibili.com:443
+[2022-12-14 14:02:25] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:02:42] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:02:55] [Info] Direct connect report.url.cn:443
+[2022-12-14 14:02:59] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:03:15] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 14:03:16] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:03:17] [Info] Disconnect passwordsleakcheck-pa.googleapis.com:443
+[2022-12-14 14:03:33] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:03:47] [Info] Connect self.events.data.microsoft.com:443
+[2022-12-14 14:03:48] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-12-14 14:03:50] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:03:57] [Debug] DNS query fail: raw.githubusercontent.com
+[2022-12-14 14:03:57] [Info] Connect raw.githubusercontent.com:443
+[2022-12-14 14:03:57] [Error] connect to update server error
+[2022-12-14 14:03:58] [Info] Disconnect raw.githubusercontent.com:443
+[2022-12-14 14:03:59] [Info] Connect edge.microsoft.com:443
+[2022-12-14 14:04:00] [Info] Connect login.live.com:443
+[2022-12-14 14:04:00] [Info] Connect login.live.com:443
+[2022-12-14 14:04:01] [Info] Direct connect www.bing.com:443
+[2022-12-14 14:04:01] [Info] Disconnect login.live.com:443
+[2022-12-14 14:04:02] [Info] Disconnect login.live.com:443
+[2022-12-14 14:04:02] [Info] Direct connect cn.bing.com:443
+[2022-12-14 14:04:08] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:04:10] [Info] Connect clients2.google.com:443
+[2022-12-14 14:04:11] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:04:11] [Info] Direct connect r2---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 14:04:14] [Info] Direct connect data.bilibili.com:443
+[2022-12-14 14:04:14] [Info] Direct connect api.vc.bilibili.com:443
+[2022-12-14 14:04:25] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:04:33] [Info] Disconnect play.google.com:443
+[2022-12-14 14:04:42] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:04:47] [Info] Disconnect accounts.google.com:443
+[2022-12-14 14:04:59] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:05:06] [Info] Disconnect clients2.google.com:443
+[2022-12-14 14:05:06] [Info] Disconnect edge.microsoft.com:443
+[2022-12-14 14:05:06] [Info] Disconnect accounts.google.com:443
+[2022-12-14 14:05:14] [Info] Direct connect clientservices.googleapis.com:443
+[2022-12-14 14:05:16] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:05:25] [Info] Direct connect mail.qq.com:443
+[2022-12-14 14:05:25] [Info] Direct connect ssl.ptlogin2.mail.qq.com:443
+[2022-12-14 14:05:25] [Info] Direct connect wx.mail.qq.com:443
+[2022-12-14 14:05:25] [Info] Direct connect rescdn.qqmail.com:443
+[2022-12-14 14:05:25] [Info] Direct connect rl.mail.qq.com:443
+[2022-12-14 14:05:25] [Info] Direct connect js.aq.qq.com:443
+[2022-12-14 14:05:26] [Info] Connect cn.gravatar.com:443
+[2022-12-14 14:05:27] [Info] Disconnect cn.gravatar.com:443
+[2022-12-14 14:05:27] [Info] Connect cn.gravatar.com:443
+[2022-12-14 14:05:27] [Info] Disconnect cn.gravatar.com:443
+[2022-12-14 14:05:29] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 14:05:29] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 14:05:29] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 14:05:34] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:05:41] [Debug] DNS query fail: www.geoele.com
+[2022-12-14 14:05:41] [Debug] DNS query fail: www.geoele.com
+[2022-12-14 14:05:41] [Info] Connect www.geoele.com:443
+[2022-12-14 14:05:41] [Info] Connect www.geoele.com:443
+[2022-12-14 14:05:44] [Debug] DNS query fail: www.geoele.com
+[2022-12-14 14:05:44] [Info] Connect www.geoele.com:80
+[2022-12-14 14:05:46] [Info] Disconnect www.geoele.com:80
+[2022-12-14 14:05:47] [Info] Connect www.geoele.com:443
+[2022-12-14 14:05:47] [Info] Disconnect www.geoele.com:443
+[2022-12-14 14:05:48] [Debug] DNS query fail: www.geoele.com
+[2022-12-14 14:05:48] [Info] Connect www.geoele.com:443
+[2022-12-14 14:05:49] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-14 14:05:49] [Info] Connect www.geogle.com:443
+[2022-12-14 14:05:49] [Info] Disconnect www.geoele.com:443
+[2022-12-14 14:05:50] [Info] Disconnect www.geoele.com:443
+[2022-12-14 14:05:50] [Debug] DNS query fail: www.geoele.com
+[2022-12-14 14:05:50] [Info] Connect www.geoele.com:443
+[2022-12-14 14:05:50] [Info] Disconnect www.geogle.com:443
+[2022-12-14 14:05:50] [Info] Connect www.geogle.com:443
+[2022-12-14 14:05:51] [Info] Disconnect www.geoele.com:443
+[2022-12-14 14:05:51] [Info] Disconnect www.geogle.com:443
+[2022-12-14 14:05:51] [Info] Connect www.geogle.com:80
+[2022-12-14 14:05:51] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:05:52] [Info] Disconnect www.geogle.com:80
+[2022-12-14 14:05:57] [Info] Connect www.geogle.com:80
+[2022-12-14 14:05:57] [Info] Disconnect www.geogle.com:80
+[2022-12-14 14:06:00] [Info] Connect accounts.google.com:443
+[2022-12-14 14:06:00] [Info] Direct connect ssl.gstatic.com:443
+[2022-12-14 14:06:00] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 14:06:05] [Info] Connect accounts.google.com:443
+[2022-12-14 14:06:08] [Info] Connect play.google.com:443
+[2022-12-14 14:06:08] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:06:08] [Info] Connect play.google.com:443
+[2022-12-14 14:06:08] [Info] Connect play.google.com:443
+[2022-12-14 14:06:08] [Info] Direct connect open.weixin.qq.com:443
+[2022-12-14 14:06:09] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 14:06:09] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 14:06:09] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 14:06:09] [Info] Direct connect tim.qq.com:443
+[2022-12-14 14:06:09] [Info] Disconnect play.google.com:443
+[2022-12-14 14:06:09] [Info] Disconnect play.google.com:443
+[2022-12-14 14:06:09] [Info] Disconnect play.google.com:443
+[2022-12-14 14:06:09] [Info] Disconnect accounts.google.com:443
+[2022-12-14 14:06:10] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:06:10] [Info] Direct connect clientservices.googleapis.com:443
+[2022-12-14 14:06:10] [Info] Connect accounts.google.com:443
+[2022-12-14 14:06:10] [Info] Direct connect www.bilibili.com:443
+[2022-12-14 14:06:11] [Info] Connect translate.googleapis.com:443
+[2022-12-14 14:06:11] [Info] Direct connect s1.hdslb.com:443
+[2022-12-14 14:06:11] [Info] Direct connect xy110x85x57x203xy.mcdn.bilivideo.cn:4483
+[2022-12-14 14:06:11] [Info] Direct connect api.bilibili.com:443
+[2022-12-14 14:06:11] [Info] Direct connect data.bilibili.com:443
+[2022-12-14 14:06:11] [Info] Direct connect api.bilibili.com:443
+[2022-12-14 14:06:11] [Info] Direct connect s1.hdslb.com:443
+[2022-12-14 14:06:11] [Info] Direct connect static.hdslb.com:443
+[2022-12-14 14:06:11] [Info] Direct connect cm.bilibili.com:443
+[2022-12-14 14:06:11] [Info] Direct connect cm.bilibili.com:443
+[2022-12-14 14:06:11] [Info] Direct connect i0.hdslb.com:443
+[2022-12-14 14:06:11] [Info] Direct connect api.live.bilibili.com:443
+[2022-12-14 14:06:12] [Info] Direct connect api.live.bilibili.com:443
+[2022-12-14 14:06:12] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 14:06:12] [Info] Connect settings-win.data.microsoft.com:443
+[2022-12-14 14:06:12] [Info] Direct connect api.vc.bilibili.com:443
+[2022-12-14 14:06:12] [Info] Direct connect passport.bilibili.com:443
+[2022-12-14 14:06:13] [Info] Direct connect interface.bilibili.com:443
+[2022-12-14 14:06:13] [Info] Direct connect i1.hdslb.com:443
+[2022-12-14 14:06:13] [Info] Direct connect i2.hdslb.com:443
+[2022-12-14 14:06:13] [Info] Connect www.google.com:443
+[2022-12-14 14:06:13] [Info] Connect play.google.com:443
+[2022-12-14 14:06:14] [Info] Direct connect i0.hdslb.com:443
+[2022-12-14 14:06:14] [Info] Disconnect settings-win.data.microsoft.com:443
+[2022-12-14 14:06:16] [Info] Direct connect update.googleapis.com:443
+[2022-12-14 14:06:18] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 14:06:26] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:06:27] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:06:27] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:06:27] [Info] Direct connect ssl.gstatic.com:443
+[2022-12-14 14:06:27] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:06:27] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:06:28] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:06:28] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:06:44] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:07:01] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:07:02] [Info] Connect self.events.data.microsoft.com:443
+[2022-12-14 14:07:03] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-12-14 14:07:10] [Info] Direct connect update.googleapis.com:443
+[2022-12-14 14:07:13] [Info] Connect accounts.google.com:443
+[2022-12-14 14:07:13] [Info] Direct connect ctldl.windowsupdate.com:80
+[2022-12-14 14:07:13] [Info] Direct connect ctldl.windowsupdate.com:80
+[2022-12-14 14:07:15] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:07:15] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 14:07:18] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:07:20] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:07:20] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 14:07:24] [Info] Connect google.com:443
+[2022-12-14 14:07:26] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:07:26] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 14:07:28] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:07:29] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 14:07:30] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:07:31] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 14:07:33] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:07:33] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 14:07:35] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:07:35] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 14:07:35] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:07:37] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:07:38] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 14:07:39] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:07:39] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 14:07:40] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:07:40] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 14:07:41] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:07:41] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 14:07:42] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:07:42] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 14:07:43] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:07:44] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 14:07:45] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:07:45] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 14:07:46] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:07:46] [Info] Direct connect r1---sn-j5o7dn7l.gvt1.com:80
+[2022-12-14 14:07:52] [Info] Connect login.live.com:443
+[2022-12-14 14:07:52] [Info] Disconnect login.live.com:443
+[2022-12-14 14:07:52] [Info] Connect login.live.com:443
+[2022-12-14 14:07:53] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:07:53] [Info] Disconnect login.live.com:443
+[2022-12-14 14:07:53] [Info] Connect checkappexec.microsoft.com:443
+[2022-12-14 14:07:54] [Info] Disconnect checkappexec.microsoft.com:443
+[2022-12-14 14:07:55] [Info] Connect edge.microsoft.com:443
+[2022-12-14 14:08:10] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:08:12] [Info] Disconnect translate.googleapis.com:443
+[2022-12-14 14:08:14] [Info] Direct connect api.vc.bilibili.com:443
+[2022-12-14 14:08:15] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2022-12-14 14:08:16] [Info] Disconnect www.google.com:443
+[2022-12-14 14:08:22] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 14:08:22] [Info] Connect www.googleapis.com:443
+[2022-12-14 14:08:23] [Info] Connect www.google.com:443
+[2022-12-14 14:08:23] [Info] Disconnect www.googleapis.com:443
+[2022-12-14 14:08:23] [Info] Connect www.googleapis.com:443
+[2022-12-14 14:08:23] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:08:23] [Info] Direct connect r3---sn-j5o76n7e.gvt1.com:80
+[2022-12-14 14:08:24] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:08:24] [Info] Direct connect r3---sn-j5o76n7e.gvt1.com:80
+[2022-12-14 14:08:24] [Info] Disconnect www.google.com:443
+[2022-12-14 14:08:24] [Info] Connect www.google.com:443
+[2022-12-14 14:08:24] [Info] Disconnect www.googleapis.com:443
+[2022-12-14 14:08:27] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:08:28] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:08:28] [Info] Direct connect r2---sn-j5o76n7l.gvt1.com:80
+[2022-12-14 14:08:28] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:08:28] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:08:28] [Info] Direct connect r2---sn-j5o76n7l.gvt1.com:80
+[2022-12-14 14:08:32] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:08:32] [Info] Direct connect r2---sn-j5o76n7l.gvt1.com:80
+[2022-12-14 14:08:32] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:08:32] [Info] Direct connect r2---sn-j5o76n7l.gvt1.com:80
+[2022-12-14 14:08:35] [Info] Disconnect www.google.com:443
+[2022-12-14 14:08:36] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:08:36] [Info] Direct connect r3---sn-j5o76n7e.gvt1.com:80
+[2022-12-14 14:08:37] [Info] Direct connect redirector.gvt1.com:80
+[2022-12-14 14:08:37] [Info] Direct connect r3---sn-j5o76n7e.gvt1.com:80
+[2022-12-14 14:08:39] [Info] Connect support.google.com:443
+[2022-12-14 14:08:39] [Info] Connect support.google.com:443
+[2022-12-14 14:08:39] [Info] Disconnect support.google.com:443
+[2022-12-14 14:08:39] [Info] Connect support.google.com:443
+[2022-12-14 14:08:41] [Info] Disconnect support.google.com:443
+[2022-12-14 14:08:41] [Info] Connect support.google.com:443
+[2022-12-14 14:08:41] [Info] Direct connect www.google-analytics.com:443
+[2022-12-14 14:08:41] [Info] Direct connect fonts.googleapis.com:443
+[2022-12-14 14:08:41] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 14:08:41] [Info] Direct connect www.googletagmanager.com:443
+[2022-12-14 14:08:42] [Info] Direct connect www.gstatic.com:443
+[2022-12-14 14:08:42] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:08:42] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:08:42] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:08:42] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:08:42] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:08:42] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:08:42] [Info] Connect www.google.com:443
+[2022-12-14 14:08:42] [Info] Connect play.google.com:443
+[2022-12-14 14:08:42] [Info] Connect apis.google.com:443
+[2022-12-14 14:08:42] [Info] Connect apis.google.com:443
+[2022-12-14 14:08:42] [Info] Connect play.google.com:443
+[2022-12-14 14:08:42] [Info] Connect play.google.com:443
+[2022-12-14 14:08:43] [Info] Connect play.google.com:443
+[2022-12-14 14:08:43] [Info] Connect play.google.com:443
+[2022-12-14 14:08:43] [Info] Connect accounts.google.com:443
+[2022-12-14 14:08:43] [Info] Disconnect google.com:443
+[2022-12-14 14:08:43] [Info] Disconnect accounts.google.com:443
+[2022-12-14 14:08:43] [Info] Disconnect accounts.google.com:443
+[2022-12-14 14:08:43] [Info] Disconnect support.google.com:443
+[2022-12-14 14:08:43] [Info] Disconnect support.google.com:443
+[2022-12-14 14:08:43] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 14:08:43] [Info] Disconnect play.google.com:443
+[2022-12-14 14:08:43] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:08:43] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:08:43] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:08:43] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:08:43] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:08:43] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:08:43] [Info] Disconnect play.google.com:443
+[2022-12-14 14:08:43] [Info] Disconnect play.google.com:443
+[2022-12-14 14:08:43] [Info] Connect play.google.com:443
+[2022-12-14 14:08:43] [Info] Disconnect play.google.com:443
+[2022-12-14 14:08:43] [Info] Disconnect play.google.com:443
+[2022-12-14 14:08:43] [Info] Disconnect apis.google.com:443
+[2022-12-14 14:08:43] [Info] Connect play.google.com:443
+[2022-12-14 14:08:43] [Info] Connect play.google.com:443
+[2022-12-14 14:08:43] [Info] Connect play.google.com:443
+[2022-12-14 14:08:43] [Info] Connect play.google.com:443
+[2022-12-14 14:08:44] [Info] Connect play.google.com:443
+[2022-12-14 14:08:44] [Info] Connect scone-pa.clients6.google.com:443
+[2022-12-14 14:08:44] [Info] Disconnect play.google.com:443
+[2022-12-14 14:08:44] [Info] Disconnect play.google.com:443
+[2022-12-14 14:08:44] [Info] Disconnect play.google.com:443
+[2022-12-14 14:08:44] [Info] Disconnect play.google.com:443
+[2022-12-14 14:08:44] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:08:44] [Info] Disconnect play.google.com:443
+[2022-12-14 14:08:45] [Info] Connect support.google.com:443
+[2022-12-14 14:09:01] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:09:18] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:09:20] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2022-12-14 14:09:36] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:09:46] [Info] Connect accounts.google.com:443
+[2022-12-14 14:09:46] [Info] Connect google.com:443
+[2022-12-14 14:09:47] [Info] Disconnect accounts.google.com:443
+[2022-12-14 14:09:47] [Info] Disconnect google.com:443
+[2022-12-14 14:09:47] [Info] Connect accounts.google.com:443
+[2022-12-14 14:09:47] [Info] Connect google.com:443
+[2022-12-14 14:09:47] [Info] Disconnect accounts.google.com:443
+[2022-12-14 14:09:47] [Info] Disconnect google.com:443
+[2022-12-14 14:09:53] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:09:57] [Info] Disconnect edge.microsoft.com:443
+[2022-12-14 14:09:57] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 14:09:59] [Info] Direct connect fonts.googleapis.com:443
+[2022-12-14 14:09:59] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 14:09:59] [Info] Direct connect www.gstatic.com:443
+[2022-12-14 14:10:00] [Info] Direct connect www.google-analytics.com:443
+[2022-12-14 14:10:05] [Info] Disconnect apis.google.com:443
+[2022-12-14 14:10:05] [Info] Disconnect support.google.com:443
+[2022-12-14 14:10:05] [Info] Disconnect www.google.com:443
+[2022-12-14 14:10:05] [Info] Disconnect play.google.com:443
+[2022-12-14 14:10:05] [Info] Disconnect scone-pa.clients6.google.com:443
+[2022-12-14 14:10:05] [Info] Disconnect play.google.com:443
+[2022-12-14 14:10:05] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:10:05] [Info] Disconnect accounts.google.com:443
+[2022-12-14 14:10:06] [Info] Connect play.google.com:443
+[2022-12-14 14:10:06] [Info] Connect play.google.com:443
+[2022-12-14 14:10:07] [Info] Disconnect play.google.com:443
+[2022-12-14 14:10:09] [Info] Direct connect safebrowsing.googleapis.com:443
+[2022-12-14 14:10:10] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:10:13] [Info] Direct connect api.vc.bilibili.com:443
+[2022-12-14 14:10:27] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:10:30] [Info] Connect accounts.google.com:443
+[2022-12-14 14:10:34] [Info] Connect self.events.data.microsoft.com:443
+[2022-12-14 14:10:35] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-12-14 14:10:44] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:11:01] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:11:14] [Info] Direct connect api.vc.bilibili.com:443
+[2022-12-14 14:11:15] [Info] Connect google.com:443
+[2022-12-14 14:11:15] [Info] Disconnect google.com:443
+[2022-12-14 14:11:15] [Info] Connect google.com:443
+[2022-12-14 14:11:16] [Info] Disconnect google.com:443
+[2022-12-14 14:11:19] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:11:19] [Info] Direct connect open.weixin.qq.com:443
+[2022-12-14 14:11:19] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 14:11:19] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 14:11:19] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 14:11:19] [Info] Direct connect tim.qq.com:443
+[2022-12-14 14:11:20] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:11:37] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:11:55] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:12:12] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:12:16] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 14:12:16] [Info] Direct connect ssl.gstatic.com:443
+[2022-12-14 14:12:27] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:12:27] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 14:12:28] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:12:28] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:12:28] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 14:12:28] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 14:12:29] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:12:29] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:12:32] [Info] Connect www.googleapis.com:443
+[2022-12-14 14:12:33] [Info] Connect www.google.com:443
+[2022-12-14 14:12:33] [Info] Disconnect www.googleapis.com:443
+[2022-12-14 14:12:33] [Info] Connect www.googleapis.com:443
+[2022-12-14 14:12:33] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 14:12:34] [Info] Disconnect www.google.com:443
+[2022-12-14 14:12:34] [Info] Connect www.google.com:443
+[2022-12-14 14:12:34] [Info] Disconnect www.googleapis.com:443
+[2022-12-14 14:12:35] [Info] Disconnect www.google.com:443
+[2022-12-14 14:12:46] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:13:03] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:13:11] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:13:11] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 14:13:12] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:13:12] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:13:12] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 14:13:12] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 14:13:13] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:13:13] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 14:13:14] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 14:13:14] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:13:14] [Info] Direct connect api.vc.bilibili.com:443
+[2022-12-14 14:13:14] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 14:13:14] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 14:13:15] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:13:15] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:13:16] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:13:16] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 14:13:16] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 14:13:17] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 14:13:17] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 14:13:18] [Info] Direct connect support.weixin.qq.com:443
+[2022-12-14 14:13:19] [Info] Connect www.googleapis.com:443
+[2022-12-14 14:13:19] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 14:13:20] [Info] Connect www.google.com:443
+[2022-12-14 14:13:20] [Info] Connect android.clients.google.com:443
+[2022-12-14 14:13:20] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:13:21] [Info] Connect accountcapabilities-pa.googleapis.com:443
+[2022-12-14 14:13:21] [Info] Connect clients4.google.com:443
+[2022-12-14 14:13:21] [Info] Connect securitydomain-pa.googleapis.com:443
+[2022-12-14 14:13:21] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:13:21] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:13:21] [Info] Connect mtalk.google.com:5228
+[2022-12-14 14:13:26] [Info] Connect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-14 14:13:26] [Info] Connect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-14 14:13:26] [Info] Connect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-14 14:13:26] [Info] Connect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-14 14:13:26] [Info] Connect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-14 14:13:26] [Info] Connect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-14 14:13:27] [Info] Disconnect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-14 14:13:27] [Info] Disconnect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-14 14:13:27] [Info] Disconnect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-14 14:13:27] [Info] Disconnect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-14 14:13:27] [Info] Disconnect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-14 14:13:31] [Info] Disconnect www.google.com:443
+[2022-12-14 14:13:33] [Info] Connect accounts.google.com:443
+[2022-12-14 14:13:38] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:13:43] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:13:44] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:13:44] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:13:45] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:13:45] [Info] Direct connect www.gstatic.com:443
+[2022-12-14 14:13:55] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:14:03] [Info] Direct connect data.bilibili.com:443
+[2022-12-14 14:14:03] [Info] Disconnect accounts.google.com:443
+[2022-12-14 14:14:03] [Info] Disconnect www.googleapis.com:443
+[2022-12-14 14:14:03] [Info] Disconnect clients4.google.com:443
+[2022-12-14 14:14:03] [Info] Disconnect accounts.google.com:443
+[2022-12-14 14:14:03] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:14:03] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 14:14:03] [Info] Disconnect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-14 14:14:03] [Info] Disconnect mtalk.google.com:5228
+[2022-12-14 14:14:03] [Info] Disconnect securitydomain-pa.googleapis.com:443
+[2022-12-14 14:14:03] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:14:03] [Info] Disconnect play.google.com:443
+[2022-12-14 14:14:03] [Info] Disconnect android.clients.google.com:443
+[2022-12-14 14:14:03] [Info] Disconnect accountcapabilities-pa.googleapis.com:443
+[2022-12-14 14:14:03] [Info] Direct connect clientservices.googleapis.com:443
+[2022-12-14 14:14:03] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:14:03] [Info] Connect accounts.google.com:443
+[2022-12-14 14:14:03] [Info] Direct connect www.bilibili.com:443
+[2022-12-14 14:14:03] [Info] Direct connect s1.hdslb.com:443
+[2022-12-14 14:14:03] [Info] Direct connect xy110x85x57x203xy.mcdn.bilivideo.cn:4483
+[2022-12-14 14:14:03] [Info] Direct connect api.bilibili.com:443
+[2022-12-14 14:14:03] [Info] Direct connect data.bilibili.com:443
+[2022-12-14 14:14:03] [Info] Connect translate.googleapis.com:443
+[2022-12-14 14:14:04] [Info] Direct connect api.bilibili.com:443
+[2022-12-14 14:14:04] [Info] Connect www.googleapis.com:443
+[2022-12-14 14:14:04] [Info] Direct connect s1.hdslb.com:443
+[2022-12-14 14:14:04] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:14:04] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:14:04] [Info] Direct connect cm.bilibili.com:443
+[2022-12-14 14:14:04] [Info] Direct connect cm.bilibili.com:443
+[2022-12-14 14:14:04] [Info] Direct connect api.live.bilibili.com:443
+[2022-12-14 14:14:04] [Info] Direct connect i2.hdslb.com:443
+[2022-12-14 14:14:04] [Info] Direct connect i0.hdslb.com:443
+[2022-12-14 14:14:04] [Info] Direct connect i1.hdslb.com:443
+[2022-12-14 14:14:04] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 14:14:04] [Info] Direct connect api.live.bilibili.com:443
+[2022-12-14 14:14:04] [Info] Disconnect translate.googleapis.com:443
+[2022-12-14 14:14:04] [Info] Connect translate.googleapis.com:443
+[2022-12-14 14:14:04] [Info] Direct connect bvc.bilivideo.com:443
+[2022-12-14 14:14:05] [Info] Connect clients4.google.com:443
+[2022-12-14 14:14:05] [Info] Direct connect data.bilibili.com:443
+[2022-12-14 14:14:05] [Info] Connect broadcast.chat.bilibili.com:7826
+[2022-12-14 14:14:05] [Info] Direct connect interface.bilibili.com:443
+[2022-12-14 14:14:05] [Info] Direct connect hw-v2-web-player-tracker.biliapi.net:443
+[2022-12-14 14:14:05] [Info] Direct connect passport.bilibili.com:443
+[2022-12-14 14:14:05] [Info] Direct connect api.vc.bilibili.com:443
+[2022-12-14 14:14:06] [Info] Connect mtalk.google.com:5228
+[2022-12-14 14:14:06] [Info] Direct connect update.googleapis.com:443
+[2022-12-14 14:14:06] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:14:08] [Info] Disconnect broadcast.chat.bilibili.com:7826
+[2022-12-14 14:14:12] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 14:14:12] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:14:12] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:14:12] [Info] Connect myaccount.google.com:443
+[2022-12-14 14:14:15] [Info] Direct connect www.gstatic.com:443
+[2022-12-14 14:14:15] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:14:15] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 14:14:16] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:14:16] [Info] Connect play.google.com:443
+[2022-12-14 14:14:16] [Info] Connect www.google.com:443
+[2022-12-14 14:14:16] [Info] Connect play.google.com:443
+[2022-12-14 14:14:16] [Info] Connect play.google.com:443
+[2022-12-14 14:14:16] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:14:17] [Info] Connect play.google.com:443
+[2022-12-14 14:14:17] [Info] Direct connect ssl.gstatic.com:443
+[2022-12-14 14:14:17] [Info] Disconnect play.google.com:443
+[2022-12-14 14:14:17] [Info] Connect play.google.com:443
+[2022-12-14 14:14:17] [Info] Connect play.google.com:443
+[2022-12-14 14:14:17] [Info] Connect play.google.com:443
+[2022-12-14 14:14:17] [Info] Connect play.google.com:443
+[2022-12-14 14:14:17] [Info] Disconnect www.googleapis.com:443
+[2022-12-14 14:14:17] [Info] Disconnect clients4.google.com:443
+[2022-12-14 14:14:17] [Info] Connect myaccount.google.com:443
+[2022-12-14 14:14:17] [Info] Disconnect accounts.google.com:443
+[2022-12-14 14:14:17] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-12-14 14:14:17] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:14:17] [Info] Disconnect myaccount.google.com:443
+[2022-12-14 14:14:17] [Info] Disconnect play.google.com:443
+[2022-12-14 14:14:17] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 14:14:17] [Info] Disconnect www.google.com:443
+[2022-12-14 14:14:18] [Info] Disconnect play.google.com:443
+[2022-12-14 14:14:19] [Info] Disconnect play.google.com:443
+[2022-12-14 14:14:19] [Info] Direct connect www.gstatic.com:443
+[2022-12-14 14:14:19] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:14:19] [Info] Disconnect play.google.com:443
+[2022-12-14 14:14:19] [Info] Disconnect play.google.com:443
+[2022-12-14 14:14:20] [Info] Connect ogs.google.com:443
+[2022-12-14 14:14:20] [Info] Disconnect play.google.com:443
+[2022-12-14 14:14:20] [Info] Connect clients4.google.com:443
+[2022-12-14 14:14:21] [Info] Connect self.events.data.microsoft.com:443
+[2022-12-14 14:14:21] [Info] Direct connect ssl.gstatic.com:443
+[2022-12-14 14:14:22] [Info] Connect play.google.com:443
+[2022-12-14 14:14:22] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-12-14 14:14:22] [Info] Connect play.google.com:443
+[2022-12-14 14:14:26] [Info] Disconnect play.google.com:443
+[2022-12-14 14:14:29] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:14:45] [Info] Connect accounts.google.com:443
+[2022-12-14 14:14:45] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 14:14:46] [Info] Connect www.google.com:443
+[2022-12-14 14:14:46] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:14:59] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 14:15:02] [Info] Disconnect translate.googleapis.com:443
+[2022-12-14 14:15:02] [Info] Disconnect clients4.google.com:443
+[2022-12-14 14:15:03] [Info] Connect clients4.google.com:443
+[2022-12-14 14:15:03] [Info] Direct connect update.googleapis.com:443
+[2022-12-14 14:15:03] [Info] Connect csp.withgoogle.com:443
+[2022-12-14 14:15:04] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:15:05] [Info] Disconnect clients4.google.com:443
+[2022-12-14 14:15:05] [Info] Connect clients4.google.com:443
+[2022-12-14 14:15:06] [Info] Disconnect mtalk.google.com:5228
+[2022-12-14 14:15:06] [Info] Disconnect play.google.com:443
+[2022-12-14 14:15:06] [Info] Disconnect accounts.google.com:443
+[2022-12-14 14:15:06] [Info] Disconnect play.google.com:443
+[2022-12-14 14:15:06] [Info] Disconnect csp.withgoogle.com:443
+[2022-12-14 14:15:06] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:15:06] [Info] Disconnect myaccount.google.com:443
+[2022-12-14 14:15:06] [Info] Disconnect ogs.google.com:443
+[2022-12-14 14:15:06] [Info] Connect mtalk.google.com:5228
+[2022-12-14 14:15:06] [Info] Disconnect www.google.com:443
+[2022-12-14 14:15:06] [Info] Connect play.google.com:443
+[2022-12-14 14:15:09] [Info] Connect clients4.google.com:443
+[2022-12-14 14:15:11] [Info] Disconnect clients4.google.com:443
+[2022-12-14 14:15:17] [Info] Connect google.com:443
+[2022-12-14 14:15:17] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2022-12-14 14:15:21] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:15:31] [Info] Connect officeclient.microsoft.com:443
+[2022-12-14 14:15:33] [Info] Connect odc.officeapps.live.com:443
+[2022-12-14 14:15:34] [Info] Disconnect odc.officeapps.live.com:443
+[2022-12-14 14:15:34] [Info] Disconnect officeclient.microsoft.com:443
+[2022-12-14 14:15:38] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:15:49] [Info] Connect myaccount.google.com:443
+[2022-12-14 14:15:49] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 14:15:49] [Info] Connect myaccount.google.com:443
+[2022-12-14 14:15:49] [Info] Disconnect myaccount.google.com:443
+[2022-12-14 14:15:49] [Info] Connect myaccount.google.com:443
+[2022-12-14 14:15:50] [Info] Disconnect myaccount.google.com:443
+[2022-12-14 14:15:50] [Info] Connect accounts.google.com:443
+[2022-12-14 14:15:53] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 14:15:53] [Info] Connect www.google.com:443
+[2022-12-14 14:15:53] [Info] Connect www.google.com:443
+[2022-12-14 14:15:54] [Info] Direct connect ssl.gstatic.com:443
+[2022-12-14 14:15:55] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:15:57] [Info] Connect ogs.google.com:443
+[2022-12-14 14:16:06] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2022-12-14 14:16:06] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2022-12-14 14:16:06] [Info] Direct connect ssl.ptlogin2.mail.qq.com:443
+[2022-12-14 14:16:06] [Info] Direct connect mail.qq.com:443
+[2022-12-14 14:16:06] [Info] Direct connect wx.mail.qq.com:443
+[2022-12-14 14:16:06] [Info] Direct connect js.aq.qq.com:443
+[2022-12-14 14:16:07] [Info] Connect cn.gravatar.com:443
+[2022-12-14 14:16:07] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 14:16:08] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 14:16:09] [Info] Direct connect rl.mail.qq.com:443
+[2022-12-14 14:16:09] [Info] Direct connect wp.mail.qq.com:443
+[2022-12-14 14:16:12] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:16:22] [Info] Direct connect rescdn.qqmail.com:443
+[2022-12-14 14:16:22] [Info] Direct connect safebrowsing.googleapis.com:443
+[2022-12-14 14:16:22] [Info] Direct connect wx.mail.qq.com:443
+[2022-12-14 14:16:29] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:16:30] [Info] Direct connect open.weixin.qq.com:443
+[2022-12-14 14:16:30] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 14:16:30] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 14:16:30] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 14:16:30] [Info] Direct connect tim.qq.com:443
+[2022-12-14 14:16:31] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:16:48] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:16:52] [Info] Disconnect cn.gravatar.com:443
+[2022-12-14 14:16:59] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 14:16:59] [Info] Direct connect wx.mail.qq.com:443
+[2022-12-14 14:17:05] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:17:13] [Info] Connect self.events.data.microsoft.com:443
+[2022-12-14 14:17:14] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-12-14 14:17:16] [Info] Direct connect wx.mail.qq.com:443
+[2022-12-14 14:17:23] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 14:17:34] [Info] Disconnect clients4.google.com:443
+[2022-12-14 14:17:34] [Info] Disconnect www.google.com:443
+[2022-12-14 14:17:34] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 14:17:34] [Info] Disconnect mtalk.google.com:5228
+[2022-12-14 14:17:34] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 14:17:34] [Info] Disconnect www.google.com:443
+[2022-12-14 14:17:34] [Info] Disconnect ogs.google.com:443
+[2022-12-14 14:17:34] [Info] Disconnect play.google.com:443
+[2022-12-14 14:17:34] [Info] Disconnect myaccount.google.com:443
+[2022-12-14 14:17:34] [Info] Disconnect google.com:443
+[2022-12-14 14:17:34] [Info] Disconnect accounts.google.com:443
+[2022-12-14 22:01:04] ShadowsocksR started on port 1080
+[2022-12-14 22:01:06] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 22:01:10] [Info] Connect www.googleapis.com:443
+[2022-12-14 22:01:12] [Info] Disconnect www.googleapis.com:443
+[2022-12-14 22:01:12] [Info] Connect www.googleapis.com:443
+[2022-12-14 22:01:13] [Info] Disconnect www.googleapis.com:443
+[2022-12-14 22:01:13] [Debug] DNS query fail: raw.githubusercontent.com
+[2022-12-14 22:01:13] [Info] Connect raw.githubusercontent.com:443
+[2022-12-14 22:01:16] [Info] Connect fe3cr.delivery.mp.microsoft.com:443
+[2022-12-14 22:01:17] [Info] Disconnect fe3cr.delivery.mp.microsoft.com:443
+[2022-12-14 22:01:18] [Info] Disconnect raw.githubusercontent.com:443
+[2022-12-14 22:01:18] [Debug] DNS query fail: raw.githubusercontent.com
+[2022-12-14 22:01:18] [Info] Connect raw.githubusercontent.com:443
+[2022-12-14 22:01:18] [Info] Disconnect raw.githubusercontent.com:443
+[2022-12-14 22:01:18] [Error] connect to update server error
+[2022-12-14 22:01:19] [Info] Connect fe3cr.delivery.mp.microsoft.com:443
+[2022-12-14 22:01:20] [Info] Disconnect fe3cr.delivery.mp.microsoft.com:443
+[2022-12-14 22:01:20] [Info] Connect umwatson.events.data.microsoft.com:443
+[2022-12-14 22:01:21] [Info] Connect v10.events.data.microsoft.com:443
+[2022-12-14 22:01:22] [Info] Connect umwatson.events.data.microsoft.com:443
+[2022-12-14 22:01:22] [Info] Disconnect umwatson.events.data.microsoft.com:443
+[2022-12-14 22:01:23] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 22:01:23] [Info] Disconnect v10.events.data.microsoft.com:443
+[2022-12-14 22:01:23] [Info] Connect umwatson.events.data.microsoft.com:443
+[2022-12-14 22:01:24] [Info] Disconnect umwatson.events.data.microsoft.com:443
+[2022-12-14 22:01:25] [Info] Disconnect umwatson.events.data.microsoft.com:443
+[2022-12-14 22:01:30] [Info] Connect www.googleapis.com:443
+[2022-12-14 22:01:33] [Info] Connect android.clients.google.com:443
+[2022-12-14 22:01:40] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 22:01:41] [Info] Connect fe3cr.delivery.mp.microsoft.com:443
+[2022-12-14 22:01:50] [Info] Disconnect fe3cr.delivery.mp.microsoft.com:443
+[2022-12-14 22:01:50] [Info] Connect geo.prod.do.dsp.mp.microsoft.com:443
+[2022-12-14 22:01:50] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:01:50] [Info] Connect fe3cr.delivery.mp.microsoft.com:443
+[2022-12-14 22:01:51] [Info] Connect v10.events.data.microsoft.com:443
+[2022-12-14 22:01:55] [Info] Connect www.github.com:443
+[2022-12-14 22:01:55] [Info] Connect www.github.com:443
+[2022-12-14 22:01:57] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 22:01:58] [Info] Connect github.com:443
+[2022-12-14 22:01:58] [Info] Disconnect v10.events.data.microsoft.com:443
+[2022-12-14 22:01:58] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:01:59] [Info] Connect kv501.prod.do.dsp.mp.microsoft.com:443
+[2022-12-14 22:01:59] [Info] Disconnect fe3cr.delivery.mp.microsoft.com:443
+[2022-12-14 22:01:59] [Info] Disconnect github.com:443
+[2022-12-14 22:01:59] [Info] Connect github.com:443
+[2022-12-14 22:01:59] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:01:59] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:01] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:01] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:02] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:02] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:02] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:02] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:02] [Info] Connect github.githubassets.com:443
+[2022-12-14 22:02:02] [Info] Connect avatars.githubusercontent.com:443
+[2022-12-14 22:02:02] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:02] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:03] [Info] Connect github.githubassets.com:443
+[2022-12-14 22:02:03] [Info] Connect github.githubassets.com:443
+[2022-12-14 22:02:03] [Info] Connect github.githubassets.com:443
+[2022-12-14 22:02:03] [Info] Connect github.githubassets.com:443
+[2022-12-14 22:02:03] [Info] Connect github.githubassets.com:443
+[2022-12-14 22:02:03] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:03] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:03] [Info] Connect geo.prod.do.dsp.mp.microsoft.com:443
+[2022-12-14 22:02:03] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:03] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:04] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:04] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:04] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 22:02:04] [Info] Connect github.githubassets.com:443
+[2022-12-14 22:02:04] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:04] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:04] [Info] Disconnect geo.prod.do.dsp.mp.microsoft.com:443
+[2022-12-14 22:02:04] [Info] Connect geover.prod.do.dsp.mp.microsoft.com:443
+[2022-12-14 22:02:05] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:05] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:05] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:05] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:05] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:06] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:06] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 22:02:06] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 22:02:06] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 22:02:06] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:06] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 22:02:06] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:06] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:06] [Info] Direct connect tlu.dl.delivery.mp.microsoft.com:80
+[2022-12-14 22:02:10] [Info] Connect v10.events.data.microsoft.com:443
+[2022-12-14 22:02:10] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 22:02:11] [Info] Connect github.githubassets.com:443
+[2022-12-14 22:02:11] [Info] Connect github.githubassets.com:443
+[2022-12-14 22:02:11] [Info] Connect github.githubassets.com:443
+[2022-12-14 22:02:11] [Info] Connect github.githubassets.com:443
+[2022-12-14 22:02:11] [Info] Connect github.githubassets.com:443
+[2022-12-14 22:02:11] [Info] Connect github.githubassets.com:443
+[2022-12-14 22:02:12] [Info] Connect login.live.com:443
+[2022-12-14 22:02:12] [Info] Connect login.live.com:443
+[2022-12-14 22:02:14] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 22:02:14] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 22:02:14] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 22:02:14] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 22:02:15] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 22:02:15] [Info] Disconnect geo.prod.do.dsp.mp.microsoft.com:443
+[2022-12-14 22:02:15] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 22:02:23] [Info] Disconnect v10.events.data.microsoft.com:443
+[2022-12-14 22:02:24] [Info] Disconnect login.live.com:443
+[2022-12-14 22:02:24] [Info] Connect login.live.com:443
+[2022-12-14 22:02:30] [Info] Connect displaycatalog.mp.microsoft.com:443
+[2022-12-14 22:02:30] [Info] Connect displaycatalog.mp.microsoft.com:443
+[2022-12-14 22:02:30] [Info] Disconnect login.live.com:443
+[2022-12-14 22:02:31] [Info] Connect accounts.google.com:443
+[2022-12-14 22:02:32] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 22:02:32] [Info] Direct connect open.weixin.qq.com:443
+[2022-12-14 22:02:32] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 22:02:32] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 22:02:32] [Info] Direct connect res.wx.qq.com:443
+[2022-12-14 22:02:32] [Info] Direct connect tim.qq.com:443
+[2022-12-14 22:02:33] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 22:02:39] [Info] Connect collections.md.mp.microsoft.com:443
+[2022-12-14 22:02:44] [Info] Connect collections.md.mp.microsoft.com:443
+[2022-12-14 22:02:45] [Info] Disconnect collections.md.mp.microsoft.com:443
+[2022-12-14 22:02:48] [Info] Disconnect login.live.com:443
+[2022-12-14 22:02:49] [Info] Disconnect accounts.google.com:443
+[2022-12-14 22:02:49] [Info] Connect login.live.com:443
+[2022-12-14 22:02:50] [Info] Connect accounts.google.com:443
+[2022-12-14 22:02:50] [Debug] DNS query fail: ipv6.msftconnecttest.com
+[2022-12-14 22:02:50] [Info] Connect ipv6.msftconnecttest.com:80
+[2022-12-14 22:02:51] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 22:02:51] [Info] Disconnect ipv6.msftconnecttest.com:80
+[2022-12-14 22:02:56] [Info] Direct connect www.gstatic.com:443
+[2022-12-14 22:02:57] [Info] Connect play.google.com:443
+[2022-12-14 22:02:57] [Info] Connect accounts.youtube.com:443
+[2022-12-14 22:02:57] [Info] Connect play.google.com:443
+[2022-12-14 22:02:58] [Info] Disconnect login.live.com:443
+[2022-12-14 22:02:58] [Info] Connect play.google.com:443
+[2022-12-14 22:02:59] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-14 22:02:59] [Info] Disconnect play.google.com:443
+[2022-12-14 22:02:59] [Info] Connect play.google.com:443
+[2022-12-14 22:02:59] [Info] Disconnect www.github.com:443
+[2022-12-14 22:02:59] [Info] Connect play.google.com:443
+[2022-12-14 22:02:59] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-14 22:02:59] [Info] Connect play.google.com:443
+[2022-12-14 22:03:00] [Info] Connect play.google.com:443
+[2022-12-14 22:03:00] [Info] Disconnect play.google.com:443
+[2022-12-14 22:03:00] [Info] Connect play.google.com:443
+[2022-12-14 22:03:00] [Info] Connect play.google.com:443
+[2022-12-14 22:03:00] [Info] Connect play.google.com:443
+[2022-12-14 22:03:00] [Info] Connect play.google.com:443
+[2022-12-14 22:03:00] [Info] Disconnect play.google.com:443
+[2022-12-14 22:03:01] [Info] Disconnect play.google.com:443
+[2022-12-14 22:03:01] [Info] Connect collections.md.mp.microsoft.com:443
+[2022-12-14 22:03:01] [Info] Disconnect play.google.com:443
+[2022-12-14 22:03:02] [Info] Disconnect play.google.com:443
+[2022-12-14 22:03:02] [Info] Disconnect play.google.com:443
+[2022-12-14 22:03:02] [Info] Disconnect play.google.com:443
+[2022-12-14 22:03:02] [Info] Disconnect collections.md.mp.microsoft.com:443
+[2022-12-14 22:03:02] [Info] Disconnect play.google.com:443
+[2022-12-14 22:03:06] [Info] Connect alive.github.com:443
+[2022-12-14 22:03:06] [Info] Direct connect ssl.gstatic.com:443
+[2022-12-14 22:03:06] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-14 22:03:08] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 22:03:19] [Info] Connect collector.github.com:443
+[2022-12-14 22:03:25] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 22:03:35] [Info] Disconnect www.googleapis.com:443
+[2022-12-14 22:03:39] [Info] Disconnect android.clients.google.com:443
+[2022-12-14 22:03:42] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 22:03:48] [Info] Connect www.googleapis.com:443
+[2022-12-14 22:03:48] [Info] Connect accounts.google.co.kr:443
+[2022-12-14 22:03:49] [Info] Connect beacons.gcp.gvt2.com:443
+[2022-12-14 22:03:49] [Info] Connect clients4.google.com:443
+[2022-12-14 22:03:49] [Info] Connect www.google.com:443
+[2022-12-14 22:03:51] [Info] Connect android.clients.google.com:443
+[2022-12-14 22:03:53] [Info] Disconnect beacons.gcp.gvt2.com:443
+[2022-12-14 22:03:53] [Info] Connect beacons.gcp.gvt2.com:443
+[2022-12-14 22:03:53] [Info] Disconnect www.google.com:443
+[2022-12-14 22:03:53] [Info] Connect www.google.com:443
+[2022-12-14 22:03:54] [Info] Connect api.github.com:443
+[2022-12-14 22:03:54] [Info] Connect api.github.com:443
+[2022-12-14 22:03:54] [Info] Connect api.github.com:443
+[2022-12-14 22:03:54] [Info] Connect www.google.com.hk:443
+[2022-12-14 22:03:57] [Info] Disconnect api.github.com:443
+[2022-12-14 22:03:57] [Info] Connect self.events.data.microsoft.com:443
+[2022-12-14 22:03:57] [Info] Disconnect api.github.com:443
+[2022-12-14 22:03:58] [Info] Connect e2c42.gcp.gvt2.com:443
+[2022-12-14 22:03:58] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-12-14 22:03:58] [Info] Disconnect www.github.com:443
+[2022-12-14 22:03:59] [Info] Connect apis.google.com:443
+[2022-12-14 22:03:59] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-14 22:03:59] [Info] Direct connect beacons.gvt2.com:443
+[2022-12-14 22:04:00] [Info] Connect adservice.google.com.hk:443
+[2022-12-14 22:04:02] [Info] Connect ogs.google.com.hk:443
+[2022-12-14 22:04:03] [Info] Disconnect kv501.prod.do.dsp.mp.microsoft.com:443
+[2022-12-14 22:04:05] [Info] Disconnect e2c42.gcp.gvt2.com:443
+[2022-12-14 22:04:06] [Info] Connect google.com:443
+[2022-12-14 22:04:09] [Info] Disconnect alive.github.com:443
+[2022-12-14 22:04:09] [Info] Disconnect adservice.google.com.hk:443
+[2022-12-14 22:04:09] [Info] Disconnect avatars.githubusercontent.com:443
+[2022-12-14 22:04:09] [Info] Disconnect www.googleapis.com:443
+[2022-12-14 22:04:09] [Info] Disconnect accounts.google.com:443
+[2022-12-14 22:04:09] [Info] Disconnect github.com:443
+[2022-12-14 22:04:09] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 22:04:09] [Info] Disconnect github.githubassets.com:443
+[2022-12-14 22:04:09] [Info] Disconnect play.google.com:443
+[2022-12-14 22:04:09] [Info] Disconnect www.google.com:443
+[2022-12-14 22:04:09] [Info] Disconnect clients4.google.com:443
+[2022-12-14 22:04:09] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-14 22:04:09] [Info] Disconnect ogs.google.com.hk:443
+[2022-12-14 22:04:09] [Info] Disconnect accounts.google.co.kr:443
+[2022-12-14 22:04:09] [Info] Disconnect accounts.youtube.com:443
+[2022-12-14 22:04:09] [Info] Disconnect play.google.com:443
+[2022-12-14 22:04:09] [Info] Disconnect api.github.com:443
+[2022-12-14 22:04:09] [Info] Disconnect www.google.com.hk:443
+[2022-12-14 22:04:09] [Info] Disconnect apis.google.com:443
+[2022-12-14 22:04:09] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-14 22:04:09] [Info] Disconnect android.clients.google.com:443
+[2022-12-14 22:04:09] [Info] Disconnect collector.github.com:443
+[2022-12-14 22:04:09] [Info] Disconnect beacons.gcp.gvt2.com:443
+[2022-12-14 22:04:11] [Info] Disconnect google.com:443
+[2022-12-14 22:04:11] [Info] Disconnect geover.prod.do.dsp.mp.microsoft.com:443
+[2022-12-15 09:08:02] ShadowsocksR started on port 1080
+[2022-12-15 09:08:06] [Info] Connect displaycatalog.mp.microsoft.com:443
+[2022-12-15 09:08:07] [Info] Disconnect displaycatalog.mp.microsoft.com:443
+[2022-12-15 09:08:11] [Info] Connect clients4.google.com:443
+[2022-12-15 09:08:11] [Info] Direct connect update.googleapis.com:443
+[2022-12-15 09:08:12] [Info] Disconnect clients4.google.com:443
+[2022-12-15 09:08:12] [Info] Connect clients4.google.com:443
+[2022-12-15 09:08:12] [Debug] DNS query fail: raw.githubusercontent.com
+[2022-12-15 09:08:12] [Info] Connect raw.githubusercontent.com:443
+[2022-12-15 09:08:13] [Info] Disconnect raw.githubusercontent.com:443
+[2022-12-15 09:08:13] [Debug] DNS query fail: raw.githubusercontent.com
+[2022-12-15 09:08:13] [Info] Connect raw.githubusercontent.com:443
+[2022-12-15 09:08:15] [Info] Disconnect raw.githubusercontent.com:443
+[2022-12-15 09:08:15] [Error] connect to update server error
+[2022-12-15 09:08:16] [Info] Disconnect clients4.google.com:443
+[2022-12-15 09:08:17] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-15 09:08:27] [Info] Connect accounts.google.com:443
+[2022-12-15 09:08:28] [Info] Disconnect accounts.google.com:443
+[2022-12-15 09:08:28] [Info] Connect accounts.google.com:443
+[2022-12-15 09:08:29] [Info] Disconnect accounts.google.com:443
+[2022-12-15 09:08:34] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-15 09:08:51] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-15 09:08:52] [Info] Connect accounts.google.com:443
+[2022-12-15 09:08:53] [Info] Disconnect accounts.google.com:443
+[2022-12-15 09:08:53] [Info] Connect accounts.google.com:443
+[2022-12-15 09:08:54] [Info] Connect accounts.google.com:443
+[2022-12-15 09:09:00] [Info] Connect www.googleapis.com:443
+[2022-12-15 09:09:01] [Info] Connect clients4.google.com:443
+[2022-12-15 09:09:03] [Info] Connect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-15 09:09:03] [Info] Connect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-15 09:09:03] [Info] Connect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-15 09:09:04] [Info] Disconnect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-15 09:09:04] [Info] Disconnect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-15 09:09:05] [Info] Connect v10.events.data.microsoft.com:443
+[2022-12-15 09:09:06] [Info] Connect login.live.com:443
+[2022-12-15 09:09:07] [Info] Disconnect v10.events.data.microsoft.com:443
+[2022-12-15 09:09:07] [Info] Connect ecs.office.com:443
+[2022-12-15 09:09:07] [Info] Connect ecs.office.com:443
+[2022-12-15 09:09:07] [Info] Disconnect login.live.com:443
+[2022-12-15 09:09:07] [Info] Connect cs.dds.microsoft.com:443
+[2022-12-15 09:09:08] [Info] Disconnect cs.dds.microsoft.com:443
+[2022-12-15 09:09:08] [Info] Connect cs.dds.microsoft.com:443
+[2022-12-15 09:09:08] [Info] Connect ecs.office.com:443
+[2022-12-15 09:09:08] [Info] Connect ecs.office.com:443
+[2022-12-15 09:09:08] [Info] Connect ecs.office.com:443
+[2022-12-15 09:09:09] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-15 09:09:09] [Info] Disconnect ecs.office.com:443
+[2022-12-15 09:09:10] [Info] Disconnect cs.dds.microsoft.com:443
+[2022-12-15 09:09:12] [Info] Connect autoupdatesvc.delivery.autodesk.com:443
+[2022-12-15 09:09:13] [Info] Connect autoupdatesvc.delivery.autodesk.com:443
+[2022-12-15 09:09:14] [Info] Connect ocsp.digicert.com:80
+[2022-12-15 09:09:14] [Info] Disconnect ocsp.digicert.com:80
+[2022-12-15 09:09:15] [Info] Disconnect autoupdatesvc.delivery.autodesk.com:443
+[2022-12-15 09:09:16] [Info] Disconnect autoupdatesvc.delivery.autodesk.com:443
+[2022-12-15 09:09:16] [Info] Connect self.events.data.microsoft.com:443
+[2022-12-15 09:09:17] [Info] Connect compsvc.delivery.autodesk.com:443
+[2022-12-15 09:09:17] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-12-15 09:09:18] [Info] Connect compsvc.delivery.autodesk.com:443
+[2022-12-15 09:09:19] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-15 09:09:20] [Info] Disconnect compsvc.delivery.autodesk.com:443
+[2022-12-15 09:09:20] [Info] Connect ping-edge.smartscreen.microsoft.com:443
+[2022-12-15 09:09:20] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-15 09:09:21] [Info] Disconnect compsvc.delivery.autodesk.com:443
+[2022-12-15 09:09:22] [Info] Connect self.events.data.microsoft.com:443
+[2022-12-15 09:09:23] [Info] Disconnect ping-edge.smartscreen.microsoft.com:443
+[2022-12-15 09:09:23] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-12-15 09:09:26] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-15 09:09:27] [Info] Direct connect suggestion.baidu.com:443
+[2022-12-15 09:09:33] [Info] Connect self.events.data.microsoft.com:443
+[2022-12-15 09:09:33] [Info] Connect www.geogle.com:443
+[2022-12-15 09:09:34] [Info] Connect www.geogle.com:443
+[2022-12-15 09:09:34] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-12-15 09:09:34] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:09:34] [Info] Connect www.geogle.com:80
+[2022-12-15 09:09:34] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:09:34] [Info] Connect www.geogle.com:443
+[2022-12-15 09:09:34] [Info] Disconnect www.geogle.com:80
+[2022-12-15 09:09:34] [Info] Connect www.geogle.com:443
+[2022-12-15 09:09:35] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:09:35] [Info] Direct connect www.gstatic.com:80
+[2022-12-15 09:09:35] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:09:37] [Info] Connect www.geogle.com:443
+[2022-12-15 09:09:38] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:09:38] [Info] Connect www.geogle.com:443
+[2022-12-15 09:09:39] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:09:40] [Info] Connect www.geogle.com:443
+[2022-12-15 09:09:41] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:09:41] [Info] Connect www.geogle.com:443
+[2022-12-15 09:09:41] [Info] Direct connect www.gstatic.com:80
+[2022-12-15 09:09:41] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:09:43] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-15 09:09:44] [Info] Connect www.geogle.com:443
+[2022-12-15 09:09:44] [Info] Connect www.geogle.com:443
+[2022-12-15 09:09:44] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:09:45] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:09:46] [Info] Connect www.geogle.com:443
+[2022-12-15 09:09:47] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:09:47] [Info] Connect www.geogle.com:443
+[2022-12-15 09:09:47] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:09:49] [Debug] DNS query fail: ipv6.msftconnecttest.com
+[2022-12-15 09:09:49] [Info] Connect ipv6.msftconnecttest.com:80
+[2022-12-15 09:09:50] [Info] Disconnect ipv6.msftconnecttest.com:80
+[2022-12-15 09:09:56] [Info] Connect self.events.data.microsoft.com:443
+[2022-12-15 09:09:57] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-12-15 09:10:00] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-15 09:10:00] [Info] Direct connect open.weixin.qq.com:443
+[2022-12-15 09:10:01] [Info] Direct connect res.wx.qq.com:443
+[2022-12-15 09:10:01] [Info] Direct connect res.wx.qq.com:443
+[2022-12-15 09:10:01] [Info] Direct connect res.wx.qq.com:443
+[2022-12-15 09:10:01] [Info] Direct connect tim.qq.com:443
+[2022-12-15 09:10:02] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-15 09:10:06] [Info] Disconnect accounts.google.com:443
+[2022-12-15 09:10:06] [Info] Disconnect ecs.office.com:443
+[2022-12-15 09:10:06] [Info] Disconnect ecs.office.com:443
+[2022-12-15 09:10:06] [Info] Disconnect www.googleapis.com:443
+[2022-12-15 09:10:06] [Info] Disconnect ecs.office.com:443
+[2022-12-15 09:10:06] [Info] Disconnect ecs.office.com:443
+[2022-12-15 09:10:06] [Info] Disconnect clients4.google.com:443
+[2022-12-15 09:10:06] [Info] Disconnect firebaseperusertopics-pa.googleapis.com:443
+[2022-12-15 09:10:06] [Info] Disconnect accounts.google.com:443
+[2022-12-15 09:10:11] [Info] Connect www.geogle.com:443
+[2022-12-15 09:10:12] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:10:12] [Info] Connect www.geogle.com:443
+[2022-12-15 09:10:12] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:10:13] [Info] Connect www.geogle.com:443
+[2022-12-15 09:10:14] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:10:14] [Info] Connect www.geogle.com:443
+[2022-12-15 09:10:15] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:10:16] [Info] Connect www.geogle.com:443
+[2022-12-15 09:10:17] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:10:17] [Info] Connect www.geogle.com:443
+[2022-12-15 09:10:18] [Info] Disconnect www.geogle.com:443
+[2022-12-15 09:10:19] [Info] Direct connect lp.open.weixin.qq.com:443
+[2022-12-15 09:10:23] [Info] Connect www.geogle.com:443
+[2022-12-15 09:10:23] [Info] Connect clients4.google.com:443
+[2022-12-16 16:13:20] ShadowsocksR started on port 1080
+[2022-12-16 16:13:30] [Debug] DNS query fail: raw.githubusercontent.com
+[2022-12-16 16:13:30] [Info] Connect raw.githubusercontent.com:443
+[2022-12-16 16:13:30] [Info] Disconnect raw.githubusercontent.com:443
+[2022-12-16 16:13:30] [Debug] DNS query fail: raw.githubusercontent.com
+[2022-12-16 16:13:30] [Info] Connect raw.githubusercontent.com:443
+[2022-12-16 16:13:31] [Info] Disconnect raw.githubusercontent.com:443
+[2022-12-16 16:13:31] [Error] connect to update server error
+[2022-12-16 16:13:50] [Info] Direct connect clientservices.googleapis.com:443
+[2022-12-16 16:13:50] [Info] Connect accounts.google.com:443
+[2022-12-16 16:13:50] [Info] Connect www.google.com:443
+[2022-12-16 16:13:50] [Info] Connect www.googleapis.com:443
+[2022-12-16 16:13:50] [Info] Connect www.google.com:443
+[2022-12-16 16:13:50] [Info] Connect www.google.com:443
+[2022-12-16 16:13:50] [Info] Connect www.google.com:443
+[2022-12-16 16:13:51] [Info] Disconnect accounts.google.com:443
+[2022-12-16 16:13:51] [Info] Connect accounts.google.com:443
+[2022-12-16 16:13:51] [Info] Disconnect www.google.com:443
+[2022-12-16 16:13:51] [Info] Connect www.google.com:443
+[2022-12-16 16:13:51] [Info] Disconnect www.google.com:443
+[2022-12-16 16:13:51] [Info] Disconnect www.google.com:443
+[2022-12-16 16:13:51] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:13:51] [Info] Disconnect www.googleapis.com:443
+[2022-12-16 16:13:51] [Info] Connect www.googleapis.com:443
+[2022-12-16 16:13:51] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:13:51] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:13:52] [Info] Disconnect www.google.com:443
+[2022-12-16 16:13:52] [Info] Connect mtalk.google.com:5228
+[2022-12-16 16:13:52] [Info] Connect android.clients.google.com:443
+[2022-12-16 16:13:52] [Info] Direct connect update.googleapis.com:443
+[2022-12-16 16:13:52] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:13:52] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:13:52] [Info] Connect clients4.google.com:443
+[2022-12-16 16:13:52] [Info] Disconnect accounts.google.com:443
+[2022-12-16 16:13:53] [Info] Connect lh3.googleusercontent.com:443
+[2022-12-16 16:13:53] [Info] Direct connect www.gstatic.com:443
+[2022-12-16 16:13:53] [Info] Connect apis.google.com:443
+[2022-12-16 16:13:53] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2022-12-16 16:13:53] [Info] Connect accounts.google.com:443
+[2022-12-16 16:13:53] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2022-12-16 16:13:53] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2022-12-16 16:13:54] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2022-12-16 16:13:54] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2022-12-16 16:13:54] [Info] Connect cloudsearch.googleapis.com:443
+[2022-12-16 16:13:55] [Info] Connect cloudsearch.googleapis.com:443
+[2022-12-16 16:13:55] [Info] Connect cloudsearch.googleapis.com:443
+[2022-12-16 16:13:58] [Info] Connect id.google.com.hk:443
+[2022-12-16 16:13:59] [Info] Connect play.google.com:443
+[2022-12-16 16:13:59] [Info] Connect id.google.com:443
+[2022-12-16 16:14:00] [Info] Connect play.google.com:443
+[2022-12-16 16:14:01] [Info] Connect adservice.google.com.hk:443
+[2022-12-16 16:14:01] [Info] Direct connect www.googleadservices.com:443
+[2022-12-16 16:14:02] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-12-16 16:14:03] [Info] Connect ogs.google.com.hk:443
+[2022-12-16 16:14:04] [Info] Direct connect ssl.gstatic.com:443
+[2022-12-16 16:14:04] [Info] Direct connect fonts.gstatic.com:443
+[2022-12-16 16:14:04] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:14:11] [Info] Connect zhcn.eyewated.com:443
+[2022-12-16 16:14:11] [Info] Connect zhcn.eyewated.com:443
+[2022-12-16 16:14:12] [Info] Disconnect zhcn.eyewated.com:443
+[2022-12-16 16:14:12] [Info] Direct connect cdn.ampproject.org:443
+[2022-12-16 16:14:12] [Info] Connect maxcdn.bootstrapcdn.com:443
+[2022-12-16 16:14:12] [Info] Direct connect fonts.googleapis.com:443
+[2022-12-16 16:14:13] [Info] Connect get.optad360.io:443
+[2022-12-16 16:14:13] [Info] Connect cmp.optad360.io:443
+[2022-12-16 16:14:13] [Info] Direct connect cdn.ampproject.org:443
+[2022-12-16 16:14:13] [Info] Connect c.statcounter.com:443
+[2022-12-16 16:14:13] [Info] Connect exse.eyewated.com:443
+[2022-12-16 16:14:13] [Info] Disconnect cloudsearch.googleapis.com:443
+[2022-12-16 16:14:13] [Info] Disconnect cloudsearch.googleapis.com:443
+[2022-12-16 16:14:13] [Info] Disconnect www.googleapis.com:443
+[2022-12-16 16:14:13] [Info] Disconnect www.google.com:443
+[2022-12-16 16:14:13] [Info] Disconnect cloudsearch.googleapis.com:443
+[2022-12-16 16:14:13] [Info] Disconnect accounts.google.com:443
+[2022-12-16 16:14:13] [Info] Disconnect clients4.google.com:443
+[2022-12-16 16:14:13] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-12-16 16:14:13] [Info] Disconnect android.clients.google.com:443
+[2022-12-16 16:14:13] [Info] Disconnect play.google.com:443
+[2022-12-16 16:14:13] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:14:13] [Info] Connect maxcdn.bootstrapcdn.com:443
+[2022-12-16 16:14:13] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2022-12-16 16:14:13] [Info] Disconnect adservice.google.com.hk:443
+[2022-12-16 16:14:13] [Info] Disconnect apis.google.com:443
+[2022-12-16 16:14:13] [Info] Disconnect id.google.com:443
+[2022-12-16 16:14:13] [Info] Disconnect play.google.com:443
+[2022-12-16 16:14:14] [Info] Disconnect id.google.com.hk:443
+[2022-12-16 16:14:14] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-12-16 16:14:14] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:14:14] [Info] Disconnect ogs.google.com.hk:443
+[2022-12-16 16:14:14] [Info] Disconnect maxcdn.bootstrapcdn.com:443
+[2022-12-16 16:14:14] [Info] Direct connect securepubads.g.doubleclick.net:443
+[2022-12-16 16:14:15] [Info] Direct connect securepubads.g.doubleclick.net:443
+[2022-12-16 16:14:15] [Info] Connect optad360.mgr.consensu.org:443
+[2022-12-16 16:14:15] [Info] Direct connect adservice.google.com:443
+[2022-12-16 16:14:15] [Info] Connect cdn.jsdelivr.net:443
+[2022-12-16 16:14:15] [Info] Connect onetag-sys.com:443
+[2022-12-16 16:14:15] [Info] Direct connect cc9689a4390b40278e0124f84cd84a1a.safeframe.googlesyndication.com:443
+[2022-12-16 16:14:15] [Info] Connect useast.quantumdex.io:443
+[2022-12-16 16:14:15] [Info] Connect ghb.adtelligent.com:443
+[2022-12-16 16:14:15] [Info] Connect hbopenbid.pubmatic.com:443
+[2022-12-16 16:14:15] [Info] Connect prebid-eu.creativecdn.com:443
+[2022-12-16 16:14:15] [Info] Connect ib.adnxs.com:443
+[2022-12-16 16:14:15] [Info] Connect ssp.wp.pl:443
+[2022-12-16 16:14:15] [Info] Connect prebid.a-mo.net:443
+[2022-12-16 16:14:15] [Info] Connect rtb.adxpremium.services:443
+[2022-12-16 16:14:15] [Info] Connect bidder.criteo.com:443
+[2022-12-16 16:14:15] [Info] Connect prebid.smilewanted.com:443
+[2022-12-16 16:14:15] [Info] Connect video.onnetwork.tv:443
+[2022-12-16 16:14:15] [Info] Direct connect fonts.googleapis.com:443
+[2022-12-16 16:14:15] [Info] Direct connect www.gstatic.com:443
+[2022-12-16 16:14:15] [Info] Direct connect tpc.googlesyndication.com:443
+[2022-12-16 16:14:15] [Info] Direct connect www.googletagservices.com:443
+[2022-12-16 16:14:15] [Info] Direct connect www.gstatic.cn:443
+[2022-12-16 16:14:16] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-12-16 16:14:16] [Info] Disconnect rtb.adxpremium.services:443
+[2022-12-16 16:14:16] [Info] Connect rtb.adxpremium.services:443
+[2022-12-16 16:14:16] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-12-16 16:14:16] [Info] Connect c1.adform.net:443
+[2022-12-16 16:14:16] [Info] Connect ssp.wp.pl:443
+[2022-12-16 16:14:16] [Info] Direct connect securepubads.g.doubleclick.net:443
+[2022-12-16 16:14:16] [Info] Connect onetag-sys.com:443
+[2022-12-16 16:14:16] [Info] Connect 1x1.a-mo.net:443
+[2022-12-16 16:14:16] [Info] Connect static.criteo.net:443
+[2022-12-16 16:14:16] [Info] Disconnect zhcn.eyewated.com:443
+[2022-12-16 16:14:16] [Info] Disconnect c.statcounter.com:443
+[2022-12-16 16:14:16] [Info] Disconnect exse.eyewated.com:443
+[2022-12-16 16:14:16] [Info] Disconnect get.optad360.io:443
+[2022-12-16 16:14:16] [Info] Disconnect cmp.optad360.io:443
+[2022-12-16 16:14:16] [Info] Disconnect maxcdn.bootstrapcdn.com:443
+[2022-12-16 16:14:16] [Info] Connect maxcdn.bootstrapcdn.com:443
+[2022-12-16 16:14:17] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-12-16 16:14:17] [Info] Direct connect googleads.g.doubleclick.net:443
+[2022-12-16 16:14:17] [Info] Disconnect optad360.mgr.consensu.org:443
+[2022-12-16 16:14:17] [Info] Connect optad360.mgr.consensu.org:443
+[2022-12-16 16:14:17] [Info] Disconnect cdn.jsdelivr.net:443
+[2022-12-16 16:14:17] [Info] Connect cdn.jsdelivr.net:443
+[2022-12-16 16:14:17] [Info] Disconnect ib.adnxs.com:443
+[2022-12-16 16:14:17] [Info] Connect ib.adnxs.com:443
+[2022-12-16 16:14:17] [Info] Direct connect tpc.googlesyndication.com:443
+[2022-12-16 16:14:17] [Info] Disconnect prebid-eu.creativecdn.com:443
+[2022-12-16 16:14:17] [Info] Connect prebid-eu.creativecdn.com:443
+[2022-12-16 16:14:17] [Info] Direct connect static.googleadsserving.cn:443
+[2022-12-16 16:14:17] [Info] Direct connect googleads4.g.doubleclick.net:443
+[2022-12-16 16:14:17] [Info] Disconnect ssp.wp.pl:443
+[2022-12-16 16:14:17] [Info] Connect ssp.wp.pl:443
+[2022-12-16 16:14:17] [Info] Connect analyticspixel.microsoft.com:443
+[2022-12-16 16:14:17] [Info] Direct connect s0.2mdn.net:443
+[2022-12-16 16:14:17] [Info] Disconnect bidder.criteo.com:443
+[2022-12-16 16:14:17] [Info] Connect bidder.criteo.com:443
+[2022-12-16 16:14:17] [Info] Disconnect video.onnetwork.tv:443
+[2022-12-16 16:14:17] [Info] Connect video.onnetwork.tv:443
+[2022-12-16 16:14:17] [Info] Connect static.criteo.net:443
+[2022-12-16 16:14:18] [Info] Disconnect rtb.adxpremium.services:443
+[2022-12-16 16:14:18] [Info] Disconnect c1.adform.net:443
+[2022-12-16 16:14:18] [Info] Connect c1.adform.net:443
+[2022-12-16 16:14:18] [Info] Disconnect onetag-sys.com:443
+[2022-12-16 16:14:18] [Info] Connect onetag-sys.com:443
+[2022-12-16 16:14:18] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-12-16 16:14:18] [Info] Connect zhcn.eyewated.com:443
+[2022-12-16 16:14:18] [Info] Connect gum.criteo.com:443
+[2022-12-16 16:14:19] [Info] Disconnect bidder.criteo.com:443
+[2022-12-16 16:14:19] [Info] Connect www.google.com:443
+[2022-12-16 16:14:19] [Info] Connect cdn.onnetwork.tv:443
+[2022-12-16 16:14:19] [Info] Connect bidder.criteo.com:443
+[2022-12-16 16:14:19] [Info] Connect rtb.adxpremium.services:443
+[2022-12-16 16:14:19] [Info] Connect prebid.smilewanted.com:443
+[2022-12-16 16:14:19] [Info] Connect prebid-eu.creativecdn.com:443
+[2022-12-16 16:14:19] [Info] Connect ib.adnxs.com:443
+[2022-12-16 16:14:19] [Info] Connect ghb1.adtelligent.com:443
+[2022-12-16 16:14:19] [Info] Disconnect ghb.adtelligent.com:443
+[2022-12-16 16:14:19] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-12-16 16:14:19] [Info] Disconnect optad360.mgr.consensu.org:443
+[2022-12-16 16:14:19] [Info] Disconnect prebid.smilewanted.com:443
+[2022-12-16 16:14:19] [Info] Disconnect ib.adnxs.com:443
+[2022-12-16 16:14:19] [Info] Disconnect cdn.jsdelivr.net:443
+[2022-12-16 16:14:19] [Info] Disconnect analyticspixel.microsoft.com:443
+[2022-12-16 16:14:19] [Info] Disconnect video.onnetwork.tv:443
+[2022-12-16 16:14:19] [Info] Disconnect maxcdn.bootstrapcdn.com:443
+[2022-12-16 16:14:19] [Info] Disconnect static.criteo.net:443
+[2022-12-16 16:14:19] [Info] Disconnect ssp.wp.pl:443
+[2022-12-16 16:14:19] [Info] Disconnect static.criteo.net:443
+[2022-12-16 16:14:19] [Info] Disconnect prebid-eu.creativecdn.com:443
+[2022-12-16 16:14:19] [Info] Disconnect 1x1.a-mo.net:443
+[2022-12-16 16:14:19] [Info] Connect gum.criteo.com:443
+[2022-12-16 16:14:19] [Info] Connect match.adsrvr.org:443
+[2022-12-16 16:14:19] [Info] Connect sync.quantumdex.io:443
+[2022-12-16 16:14:19] [Info] Connect csync.smilewanted.com:443
+[2022-12-16 16:14:19] [Info] Connect acdn.adnxs.com:443
+[2022-12-16 16:14:19] [Info] Connect ads.pubmatic.com:443
+[2022-12-16 16:14:19] [Info] Connect s.console.adtarget.com.tr:443
+[2022-12-16 16:14:19] [Info] Connect ads.us.e-planning.net:443
+[2022-12-16 16:14:19] [Info] Connect ic.tynt.com:443
+[2022-12-16 16:14:19] [Info] Connect ib.adnxs.com:443
+[2022-12-16 16:14:19] [Info] Connect sync.mathtag.com:443
+[2022-12-16 16:14:19] [Info] Connect pixel-eu.rubiconproject.com:443
+[2022-12-16 16:14:19] [Info] Connect pixel.rubiconproject.com:443
+[2022-12-16 16:14:19] [Info] Connect ssbsync-global.smartadserver.com:443
+[2022-12-16 16:14:19] [Info] Connect image8.pubmatic.com:443
+[2022-12-16 16:14:19] [Info] Connect prebid-match.dotomi.com:443
+[2022-12-16 16:14:19] [Info] Connect ads.pubmatic.com:443
+[2022-12-16 16:14:19] [Info] Connect ups.analytics.yahoo.com:443
+[2022-12-16 16:14:19] [Info] Connect x.bidswitch.net:443
+[2022-12-16 16:14:19] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-12-16 16:14:19] [Info] Disconnect zhcn.eyewated.com:443
+[2022-12-16 16:14:19] [Info] Disconnect c1.adform.net:443
+[2022-12-16 16:14:19] [Info] Disconnect hbopenbid.pubmatic.com:443
+[2022-12-16 16:14:19] [Info] Disconnect useast.quantumdex.io:443
+[2022-12-16 16:14:19] [Info] Disconnect prebid.a-mo.net:443
+[2022-12-16 16:14:19] [Info] Disconnect onetag-sys.com:443
+[2022-12-16 16:14:20] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-12-16 16:14:20] [Info] Connect s.amazon-adsystem.com:443
+[2022-12-16 16:14:20] [Info] Connect match.adsrvr.org:443
+[2022-12-16 16:14:20] [Info] Connect bidder.criteo.com:443
+[2022-12-16 16:14:20] [Info] Direct connect securepubads.g.doubleclick.net:443
+[2022-12-16 16:14:20] [Info] Disconnect onetag-sys.com:443
+[2022-12-16 16:14:20] [Info] Disconnect ssp.wp.pl:443
+[2022-12-16 16:14:20] [Info] Disconnect www.google.com:443
+[2022-12-16 16:14:20] [Info] Connect onetag-sys.com:443
+[2022-12-16 16:14:20] [Info] Disconnect ghb1.adtelligent.com:443
+[2022-12-16 16:14:20] [Info] Disconnect ib.adnxs.com:443
+[2022-12-16 16:14:20] [Info] Connect std.wpcdn.pl:443
+[2022-12-16 16:14:20] [Info] Disconnect ads.pubmatic.com:443
+[2022-12-16 16:14:20] [Info] Connect ib.adnxs.com:443
+[2022-12-16 16:14:20] [Info] Connect ib.adnxs.com:443
+[2022-12-16 16:14:20] [Info] Connect id5-sync.com:443
+[2022-12-16 16:14:20] [Info] Connect ssp.disqus.com:443
+[2022-12-16 16:14:20] [Info] Disconnect match.adsrvr.org:443
+[2022-12-16 16:14:20] [Info] Connect hbx.media.net:443
+[2022-12-16 16:14:20] [Info] Connect ads.betweendigital.com:443
+[2022-12-16 16:14:20] [Info] Connect match.sharethrough.com:443
+[2022-12-16 16:14:20] [Info] Connect ap.lijit.com:443
+[2022-12-16 16:14:20] [Info] Connect s.ad.smaato.net:443
+[2022-12-16 16:14:20] [Info] Connect ssum-sec.casalemedia.com:443
+[2022-12-16 16:14:20] [Info] Connect secure-assets.rubiconproject.com:443
+[2022-12-16 16:14:20] [Info] Connect de.tynt.com:443
+[2022-12-16 16:14:20] [Info] Disconnect acdn.adnxs.com:443
+[2022-12-16 16:14:20] [Info] Disconnect gum.criteo.com:443
+[2022-12-16 16:14:20] [Info] Disconnect prebid.smilewanted.com:443
+[2022-12-16 16:14:20] [Info] Disconnect sync.quantumdex.io:443
+[2022-12-16 16:14:20] [Info] Disconnect prebid-eu.creativecdn.com:443
+[2022-12-16 16:14:20] [Info] Disconnect match.adsrvr.org:443
+[2022-12-16 16:14:20] [Info] Connect ads.us.e-planning.net:443
+[2022-12-16 16:14:20] [Info] Disconnect ic.tynt.com:443
+[2022-12-16 16:14:20] [Info] Connect gum.criteo.com:443
+[2022-12-16 16:14:20] [Info] Disconnect ads.us.e-planning.net:443
+[2022-12-16 16:14:20] [Info] Direct connect cdn.ampproject.org:443
+[2022-12-16 16:14:20] [Info] Connect onetag-sys.com:443
+[2022-12-16 16:14:20] [Info] Connect cdn.onnetwork.tv:443
+[2022-12-16 16:14:20] [Info] Connect usermatch.targeting.unrulymedia.com:443
+[2022-12-16 16:14:20] [Info] Disconnect s.console.adtarget.com.tr:443
+[2022-12-16 16:14:20] [Info] Connect s.console.adtarget.com.tr:443
+[2022-12-16 16:14:20] [Info] Connect image6.pubmatic.com:443
+[2022-12-16 16:14:20] [Info] Disconnect ads.pubmatic.com:443
+[2022-12-16 16:14:20] [Info] Disconnect sync.mathtag.com:443
+[2022-12-16 16:14:20] [Info] Disconnect image8.pubmatic.com:443
+[2022-12-16 16:14:21] [Info] Disconnect cdn.onnetwork.tv:443
+[2022-12-16 16:14:21] [Info] Connect onetag-sys.com:443
+[2022-12-16 16:14:21] [Info] Disconnect ssbsync-global.smartadserver.com:443
+[2022-12-16 16:14:21] [Info] Disconnect prebid-match.dotomi.com:443
+[2022-12-16 16:14:21] [Info] Connect onetag-sys.com:443
+[2022-12-16 16:14:21] [Info] Connect onetag-sys.com:443
+[2022-12-16 16:14:21] [Info] Connect prebid-match.dotomi.com:443
+[2022-12-16 16:14:21] [Info] Connect rtb.adentifi.com:443
+[2022-12-16 16:14:21] [Info] Direct connect securepubads.g.doubleclick.net:443
+[2022-12-16 16:14:21] [Info] Disconnect pixel.rubiconproject.com:443
+[2022-12-16 16:14:21] [Info] Connect static.criteo.net:443
+[2022-12-16 16:14:21] [Info] Disconnect bidder.criteo.com:443
+[2022-12-16 16:14:21] [Info] Connect aa.agkn.com:443
+[2022-12-16 16:14:21] [Info] Disconnect ib.adnxs.com:443
+[2022-12-16 16:14:21] [Info] Disconnect ib.adnxs.com:443
+[2022-12-16 16:14:21] [Info] Disconnect ib.adnxs.com:443
+[2022-12-16 16:14:21] [Info] Disconnect s.amazon-adsystem.com:443
+[2022-12-16 16:14:21] [Info] Connect c.bing.com:443
+[2022-12-16 16:14:21] [Info] Connect 33across-match.dotomi.com:443
+[2022-12-16 16:14:21] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-12-16 16:14:21] [Info] Connect ads.betweendigital.com:443
+[2022-12-16 16:14:21] [Info] Disconnect gum.criteo.com:443
+[2022-12-16 16:14:21] [Info] Connect c.bing.com:443
+[2022-12-16 16:14:21] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-12-16 16:14:21] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-12-16 16:14:21] [Info] Connect gum.criteo.com:443
+[2022-12-16 16:14:21] [Info] Connect s.e-planning.net:443
+[2022-12-16 16:14:21] [Info] Connect a.audrte.com:443
+[2022-12-16 16:14:21] [Info] Disconnect de.tynt.com:443
+[2022-12-16 16:14:21] [Info] Disconnect match.sharethrough.com:443
+[2022-12-16 16:14:21] [Info] Disconnect ads.betweendigital.com:443
+[2022-12-16 16:14:21] [Info] Connect ads.pubmatic.com:443
+[2022-12-16 16:14:21] [Info] Connect s.e-planning.net:443
+[2022-12-16 16:14:21] [Info] Connect s.e-planning.net:443
+[2022-12-16 16:14:21] [Info] Connect ssum.casalemedia.com:443
+[2022-12-16 16:14:21] [Info] Connect i.e-planning.net:443
+[2022-12-16 16:14:21] [Info] Connect cs.iqzone.com:443
+[2022-12-16 16:14:21] [Info] Disconnect gum.criteo.com:443
+[2022-12-16 16:14:21] [Info] Disconnect ssum-sec.casalemedia.com:443
+[2022-12-16 16:14:21] [Info] Disconnect ap.lijit.com:443
+[2022-12-16 16:14:21] [Info] Disconnect ads.us.e-planning.net:443
+[2022-12-16 16:14:21] [Info] Disconnect bidder.criteo.com:443
+[2022-12-16 16:14:21] [Info] Connect csync.loopme.me:443
+[2022-12-16 16:14:21] [Info] Disconnect onetag-sys.com:443
+[2022-12-16 16:14:21] [Info] Disconnect onetag-sys.com:443
+[2022-12-16 16:14:21] [Info] Disconnect s.console.adtarget.com.tr:443
+[2022-12-16 16:14:21] [Info] Disconnect id5-sync.com:443
+[2022-12-16 16:14:21] [Info] Disconnect onetag-sys.com:443
+[2022-12-16 16:14:21] [Info] Connect dis.criteo.com:443
+[2022-12-16 16:14:21] [Info] Connect dpm.demdex.net:443
+[2022-12-16 16:14:21] [Info] Disconnect rtb.adxpremium.services:443
+[2022-12-16 16:14:21] [Info] Connect rtb.adxpremium.services:443
+[2022-12-16 16:14:21] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-12-16 16:14:21] [Info] Connect eb2.3lift.com:443
+[2022-12-16 16:14:22] [Info] Connect eus.rubiconproject.com:443
+[2022-12-16 16:14:22] [Info] Connect eus.rubiconproject.com:443
+[2022-12-16 16:14:22] [Info] Connect eus.rubiconproject.com:443
+[2022-12-16 16:14:22] [Info] Disconnect prebid-match.dotomi.com:443
+[2022-12-16 16:14:22] [Info] Connect cms.quantserve.com:443
+[2022-12-16 16:14:22] [Info] Disconnect std.wpcdn.pl:443
+[2022-12-16 16:14:22] [Info] Connect a.tribalfusion.com:443
+[2022-12-16 16:14:22] [Info] Disconnect onetag-sys.com:443
+[2022-12-16 16:14:22] [Info] Disconnect cdn.onnetwork.tv:443
+[2022-12-16 16:14:22] [Info] Disconnect secure-assets.rubiconproject.com:443
+[2022-12-16 16:14:22] [Info] Connect cm.adgrx.com:443
+[2022-12-16 16:14:22] [Info] Disconnect csync.smilewanted.com:443
+[2022-12-16 16:14:22] [Info] Disconnect image6.pubmatic.com:443
+[2022-12-16 16:14:22] [Info] Connect csync.smilewanted.com:443
+[2022-12-16 16:14:22] [Info] Disconnect ssp.disqus.com:443
+[2022-12-16 16:14:22] [Info] Disconnect static.criteo.net:443
+[2022-12-16 16:14:22] [Info] Disconnect c.bing.com:443
+[2022-12-16 16:14:22] [Info] Connect match.deepintent.com:443
+[2022-12-16 16:14:22] [Info] Connect dis.criteo.com:443
+[2022-12-16 16:14:22] [Info] Connect sync.srv.stackadapt.com:443
+[2022-12-16 16:14:22] [Info] Connect sync.adtelligent.com:443
+[2022-12-16 16:14:22] [Info] Disconnect hbx.media.net:443
+[2022-12-16 16:14:22] [Info] Connect sync.srv.stackadapt.com:443
+[2022-12-16 16:14:22] [Info] Disconnect pixel-eu.rubiconproject.com:443
+[2022-12-16 16:14:22] [Info] Connect pixel-eu.rubiconproject.com:443
+[2022-12-16 16:14:22] [Info] Connect video.onnetwork.tv:443
+[2022-12-16 16:14:22] [Info] Disconnect x.bidswitch.net:443
+[2022-12-16 16:14:22] [Info] Connect x.bidswitch.net:443
+[2022-12-16 16:14:22] [Info] Connect 33across-match.dotomi.com:443
+[2022-12-16 16:14:22] [Info] Disconnect rtb.adentifi.com:443
+[2022-12-16 16:14:22] [Info] Disconnect s.e-planning.net:443
+[2022-12-16 16:14:22] [Info] Disconnect s.e-planning.net:443
+[2022-12-16 16:14:22] [Info] Disconnect c.bing.com:443
+[2022-12-16 16:14:22] [Info] Connect aa.agkn.com:443
+[2022-12-16 16:14:22] [Info] Connect c1.adform.net:443
+[2022-12-16 16:14:22] [Info] Connect cdn.onnetwork.tv:443
+[2022-12-16 16:14:22] [Info] Connect api.retargetly.com:443
+[2022-12-16 16:14:22] [Info] Disconnect ads.betweendigital.com:443
+[2022-12-16 16:14:22] [Info] Disconnect 33across-match.dotomi.com:443
+[2022-12-16 16:14:22] [Info] Disconnect gum.criteo.com:443
+[2022-12-16 16:14:22] [Info] Disconnect onetag-sys.com:443
+[2022-12-16 16:14:22] [Info] Connect cs.iqzone.com:443
+[2022-12-16 16:14:22] [Info] Disconnect ups.analytics.yahoo.com:443
+[2022-12-16 16:14:22] [Info] Connect ups.analytics.yahoo.com:443
+[2022-12-16 16:14:22] [Info] Disconnect rtb.adxpremium.services:443
+[2022-12-16 16:14:22] [Info] Connect ib.adnxs.com:443
+[2022-12-16 16:14:22] [Info] Disconnect ads.pubmatic.com:443
+[2022-12-16 16:14:22] [Info] Connect ib.adnxs.com:443
+[2022-12-16 16:14:22] [Info] Disconnect s.e-planning.net:443
+[2022-12-16 16:14:22] [Info] Disconnect i.e-planning.net:443
+[2022-12-16 16:14:22] [Info] Disconnect s.ad.smaato.net:443
+[2022-12-16 16:14:22] [Info] Connect s.ad.smaato.net:443
+[2022-12-16 16:14:22] [Info] Connect ib.adnxs.com:443
+[2022-12-16 16:14:22] [Info] Connect onetag-sys.com:443
+[2022-12-16 16:14:22] [Info] Connect simage2.pubmatic.com:443
+[2022-12-16 16:14:22] [Info] Connect eb2.3lift.com:443
+[2022-12-16 16:14:22] [Info] Disconnect dis.criteo.com:443
+[2022-12-16 16:14:22] [Info] Disconnect aa.agkn.com:443
+[2022-12-16 16:14:23] [Info] Connect onetag-sys.com:443
+[2022-12-16 16:14:23] [Info] Disconnect dis.criteo.com:443
+[2022-12-16 16:14:23] [Info] Connect s.e-planning.net:443
+[2022-12-16 16:14:23] [Info] Connect image2.pubmatic.com:443
+[2022-12-16 16:14:23] [Info] Disconnect eus.rubiconproject.com:443
+[2022-12-16 16:14:23] [Info] Disconnect eb2.3lift.com:443
+[2022-12-16 16:14:23] [Info] Disconnect a.audrte.com:443
+[2022-12-16 16:14:23] [Info] Disconnect eus.rubiconproject.com:443
+[2022-12-16 16:14:23] [Info] Connect sync.adtelligent.com:443
+[2022-12-16 16:14:23] [Info] Disconnect aa.agkn.com:443
+[2022-12-16 16:14:23] [Info] Connect sync.quantumdex.io:443
+[2022-12-16 16:14:23] [Info] Disconnect cms.quantserve.com:443
+[2022-12-16 16:14:23] [Info] Disconnect usermatch.targeting.unrulymedia.com:443
+[2022-12-16 16:14:23] [Info] Connect usermatch.targeting.unrulymedia.com:443
+[2022-12-16 16:14:23] [Info] Connect cm.adgrx.com:443
+[2022-12-16 16:14:23] [Info] Disconnect csync.loopme.me:443
+[2022-12-16 16:14:23] [Info] Disconnect eus.rubiconproject.com:443
+[2022-12-16 16:14:23] [Info] Disconnect cm.adgrx.com:443
+[2022-12-16 16:14:23] [Info] Connect sync.quantumdex.io:443
+[2022-12-16 16:14:23] [Info] Disconnect match.deepintent.com:443
+[2022-12-16 16:14:23] [Info] Connect sync.quantumdex.io:443
+[2022-12-16 16:14:23] [Info] Connect sync.quantumdex.io:443
+[2022-12-16 16:14:23] [Info] Connect sync.quantumdex.io:443
+[2022-12-16 16:14:23] [Info] Connect sync.quantumdex.io:443
+[2022-12-16 16:14:23] [Info] Connect bttrack.com:443
+[2022-12-16 16:14:23] [Info] Connect api.retargetly.com:443
+[2022-12-16 16:14:23] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-12-16 16:14:23] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-12-16 16:14:23] [Info] Disconnect 33across-match.dotomi.com:443
+[2022-12-16 16:14:23] [Info] Disconnect cs.iqzone.com:443
+[2022-12-16 16:14:23] [Info] Disconnect dpm.demdex.net:443
+[2022-12-16 16:14:23] [Info] Direct connect imasdk.googleapis.com:443
+[2022-12-16 16:14:23] [Info] Disconnect cs.iqzone.com:443
+[2022-12-16 16:14:23] [Info] Disconnect c1.adform.net:443
+[2022-12-16 16:14:23] [Info] Disconnect api.retargetly.com:443
+[2022-12-16 16:14:23] [Info] Direct connect imasdk.googleapis.com:443
+[2022-12-16 16:14:23] [Info] Disconnect sync.adtelligent.com:443
+[2022-12-16 16:14:23] [Info] Connect dis.criteo.com:443
+[2022-12-16 16:14:23] [Info] Disconnect onetag-sys.com:443
+[2022-12-16 16:14:23] [Info] Connect acdn.adnxs.com:443
+[2022-12-16 16:14:23] [Info] Disconnect video.onnetwork.tv:443
+[2022-12-16 16:14:23] [Info] Connect simage2.pubmatic.com:443
+[2022-12-16 16:14:23] [Info] Connect c.bing.com:443
+[2022-12-16 16:14:23] [Info] Connect c1.adform.net:443
+[2022-12-16 16:14:23] [Info] Connect dpm.demdex.net:443
+[2022-12-16 16:14:23] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-12-16 16:14:23] [Info] Connect eb2.3lift.com:443
+[2022-12-16 16:14:23] [Info] Disconnect ups.analytics.yahoo.com:443
+[2022-12-16 16:14:23] [Info] Connect ib.adnxs.com:443
+[2022-12-16 16:14:23] [Info] Connect ib.adnxs.com:443
+[2022-12-16 16:14:24] [Info] Disconnect csync.smilewanted.com:443
+[2022-12-16 16:14:24] [Info] Connect idsync.rlcdn.com:443
+[2022-12-16 16:14:24] [Info] Disconnect eb2.3lift.com:443
+[2022-12-16 16:14:24] [Info] Connect simage2.pubmatic.com:443
+[2022-12-16 16:14:24] [Info] Disconnect sync.quantumdex.io:443
+[2022-12-16 16:14:24] [Info] Disconnect sync.quantumdex.io:443
+[2022-12-16 16:14:24] [Info] Connect image6.pubmatic.com:443
+[2022-12-16 16:14:24] [Info] Disconnect sync.quantumdex.io:443
+[2022-12-16 16:14:24] [Info] Disconnect sync.quantumdex.io:443
+[2022-12-16 16:14:24] [Info] Disconnect sync.quantumdex.io:443
+[2022-12-16 16:14:24] [Info] Disconnect usermatch.targeting.unrulymedia.com:443
+[2022-12-16 16:14:24] [Info] Disconnect s.e-planning.net:443
+[2022-12-16 16:14:24] [Info] Connect usermatch.targeting.unrulymedia.com:443
+[2022-12-16 16:14:24] [Info] Disconnect image2.pubmatic.com:443
+[2022-12-16 16:14:24] [Info] Connect eb2.3lift.com:443
+[2022-12-16 16:14:24] [Info] Connect eb2.3lift.com:443
+[2022-12-16 16:14:24] [Info] Disconnect ssum.casalemedia.com:443
+[2022-12-16 16:14:24] [Info] Connect ssum.casalemedia.com:443
+[2022-12-16 16:14:24] [Info] Connect hbx.media.net:443
+[2022-12-16 16:14:24] [Info] Connect image8.pubmatic.com:443
+[2022-12-16 16:14:24] [Info] Connect image8.pubmatic.com:443
+[2022-12-16 16:14:24] [Info] Connect id5-sync.com:443
+[2022-12-16 16:14:24] [Info] Disconnect sync.srv.stackadapt.com:443
+[2022-12-16 16:14:24] [Info] Disconnect sync.quantumdex.io:443
+[2022-12-16 16:14:24] [Info] Disconnect cm.adgrx.com:443
+[2022-12-16 16:14:24] [Info] Disconnect ib.adnxs.com:443
+[2022-12-16 16:14:24] [Info] Connect cdn.onnetwork.tv:443
+[2022-12-16 16:14:24] [Info] Disconnect ib.adnxs.com:443
+[2022-12-16 16:14:24] [Info] Direct connect imasdk.googleapis.com:443
+[2022-12-16 16:14:24] [Info] Connect ssum-sec.casalemedia.com:443
+[2022-12-16 16:14:24] [Info] Connect ssum-sec.casalemedia.com:443
+[2022-12-16 16:14:24] [Info] Disconnect pixel-eu.rubiconproject.com:443
+[2022-12-16 16:14:24] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-12-16 16:14:24] [Info] Connect image6.pubmatic.com:443
+[2022-12-16 16:14:24] [Info] Disconnect cdn.onnetwork.tv:443
+[2022-12-16 16:14:24] [Info] Disconnect a.tribalfusion.com:443
+[2022-12-16 16:14:24] [Info] Connect a.tribalfusion.com:443
+[2022-12-16 16:14:24] [Info] Connect io.narrative.io:443
+[2022-12-16 16:14:24] [Info] Connect js.cookieless-data.com:443
+[2022-12-16 16:14:24] [Info] Connect m.adnxs.com:443
+[2022-12-16 16:14:24] [Info] Connect match.adsrvr.org:443
+[2022-12-16 16:14:24] [Info] Connect prebid.adnxs.com:443
+[2022-12-16 16:14:24] [Info] Connect cdn.onnetwork.tv:443
+[2022-12-16 16:14:24] [Info] Connect cdn.onnetwork.tv:443
+[2022-12-16 16:14:24] [Info] Disconnect ib.adnxs.com:443
+[2022-12-16 16:14:24] [Info] Disconnect bttrack.com:443
+[2022-12-16 16:14:24] [Info] Disconnect simage2.pubmatic.com:443
+[2022-12-16 16:14:24] [Info] Connect cdn.onnetwork.tv:443
+[2022-12-16 16:14:24] [Info] Connect cdn.onnetwork.tv:443
+[2022-12-16 16:14:24] [Info] Disconnect onetag-sys.com:443
+[2022-12-16 16:14:24] [Info] Direct connect imasdk.googleapis.com:443
+[2022-12-16 16:14:24] [Info] Disconnect ib.adnxs.com:443
+[2022-12-16 16:14:24] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-12-16 16:14:24] [Info] Disconnect eb2.3lift.com:443
+[2022-12-16 16:14:24] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-12-16 16:14:24] [Info] Disconnect dis.criteo.com:443
+[2022-12-16 16:14:24] [Info] Disconnect eb2.3lift.com:443
+[2022-12-16 16:14:24] [Info] Connect cdnt.onnetwork.tv:443
+[2022-12-16 16:14:24] [Info] Disconnect acdn.adnxs.com:443
+[2022-12-16 16:14:24] [Info] Connect idsync.rlcdn.com:443
+[2022-12-16 16:14:24] [Info] Connect match.adsrvr.org:443
+[2022-12-16 16:14:25] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-12-16 16:14:25] [Info] Disconnect c.bing.com:443
+[2022-12-16 16:14:25] [Info] Disconnect dpm.demdex.net:443
+[2022-12-16 16:14:25] [Info] Connect match.adsrvr.org:443
+[2022-12-16 16:14:25] [Info] Disconnect image6.pubmatic.com:443
+[2022-12-16 16:14:25] [Info] Disconnect simage2.pubmatic.com:443
+[2022-12-16 16:14:25] [Info] Disconnect sync.srv.stackadapt.com:443
+[2022-12-16 16:14:25] [Info] Connect sync.srv.stackadapt.com:443
+[2022-12-16 16:14:25] [Info] Disconnect eb2.3lift.com:443
+[2022-12-16 16:14:25] [Info] Disconnect idsync.rlcdn.com:443
+[2022-12-16 16:14:25] [Info] Connect c1.adform.net:443
+[2022-12-16 16:14:25] [Info] Disconnect c1.adform.net:443
+[2022-12-16 16:14:25] [Info] Disconnect usermatch.targeting.unrulymedia.com:443
+[2022-12-16 16:14:25] [Info] Connect match.adsrvr.org:443
+[2022-12-16 16:14:25] [Info] Disconnect x.bidswitch.net:443
+[2022-12-16 16:14:25] [Info] Connect x.bidswitch.net:443
+[2022-12-16 16:14:25] [Info] Connect pm.w55c.net:443
+[2022-12-16 16:14:25] [Info] Connect ums.acuityplatform.com:443
+[2022-12-16 16:14:25] [Info] Disconnect image6.pubmatic.com:443
+[2022-12-16 16:14:25] [Info] Disconnect image8.pubmatic.com:443
+[2022-12-16 16:14:25] [Info] Connect ad.mrtnsvr.com:443
+[2022-12-16 16:14:25] [Info] Connect beacon.lynx.cognitivlabs.com:443
+[2022-12-16 16:14:25] [Info] Connect core.iprom.net:443
+[2022-12-16 16:14:25] [Info] Connect csync.loopme.me:443
+[2022-12-16 16:14:25] [Info] Connect ads.playground.xyz:443
+[2022-12-16 16:14:25] [Info] Disconnect simage2.pubmatic.com:443
+[2022-12-16 16:14:25] [Info] Connect ads.playground.xyz:443
+[2022-12-16 16:14:25] [Info] Disconnect ssum-sec.casalemedia.com:443
+[2022-12-16 16:14:25] [Info] Connect ipac.ctnsnet.com:443
+[2022-12-16 16:14:25] [Info] Connect gocm.c.appier.net:443
+[2022-12-16 16:14:25] [Info] Disconnect s.ad.smaato.net:443
+[2022-12-16 16:14:25] [Info] Connect mweb.ck.inmobi.com:443
+[2022-12-16 16:14:25] [Info] Connect pm.w55c.net:443
+[2022-12-16 16:14:25] [Info] Connect matching.truffle.bid:443
+[2022-12-16 16:14:25] [Info] Connect px.owneriq.net:443
+[2022-12-16 16:14:25] [Info] Connect sync.1rx.io:443
+[2022-12-16 16:14:25] [Info] Connect um.simpli.fi:443
+[2022-12-16 16:14:25] [Info] Disconnect hbx.media.net:443
+[2022-12-16 16:14:25] [Info] Disconnect ssum.casalemedia.com:443
+[2022-12-16 16:14:25] [Info] Disconnect image8.pubmatic.com:443
+[2022-12-16 16:14:25] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-12-16 16:14:25] [Info] Disconnect sync.adtelligent.com:443
+[2022-12-16 16:14:25] [Info] Connect sync.adtelligent.com:443
+[2022-12-16 16:14:25] [Info] Connect api.retargetly.com:443
+[2022-12-16 16:14:25] [Info] Connect s.tribalfusion.com:443
+[2022-12-16 16:14:25] [Info] Connect sync.quantumdex.io:443
+[2022-12-16 16:14:25] [Info] Disconnect cdn.onnetwork.tv:443
+[2022-12-16 16:14:25] [Info] Disconnect cdn.onnetwork.tv:443
+[2022-12-16 16:14:25] [Info] Disconnect cdn.onnetwork.tv:443
+[2022-12-16 16:14:25] [Info] Disconnect cdn.onnetwork.tv:443
+[2022-12-16 16:14:25] [Info] Connect sync.quantumdex.io:443
+[2022-12-16 16:14:25] [Info] Connect image8.pubmatic.com:443
+[2022-12-16 16:14:25] [Info] Disconnect match.adsrvr.org:443
+[2022-12-16 16:14:25] [Info] Disconnect match.adsrvr.org:443
+[2022-12-16 16:14:25] [Info] Disconnect api.retargetly.com:443
+[2022-12-16 16:14:25] [Info] Connect image8.pubmatic.com:443
+[2022-12-16 16:14:25] [Info] Connect sync.quantumdex.io:443
+[2022-12-16 16:14:25] [Info] Disconnect match.adsrvr.org:443
+[2022-12-16 16:14:25] [Info] Connect sync.quantumdex.io:443
+[2022-12-16 16:14:25] [Info] Disconnect a.tribalfusion.com:443
+[2022-12-16 16:14:25] [Info] Disconnect ssum-sec.casalemedia.com:443
+[2022-12-16 16:14:25] [Info] Disconnect id5-sync.com:443
+[2022-12-16 16:14:25] [Info] Connect ad.turn.com:443
+[2022-12-16 16:14:25] [Info] Disconnect ib.adnxs.com:443
+[2022-12-16 16:14:25] [Info] Connect dpm.demdex.net:443
+[2022-12-16 16:14:25] [Info] Disconnect m.adnxs.com:443
+[2022-12-16 16:14:25] [Info] Connect dmp.brand-display.com:443
+[2022-12-16 16:14:25] [Info] Disconnect prebid.adnxs.com:443
+[2022-12-16 16:14:25] [Info] Disconnect match.adsrvr.org:443
+[2022-12-16 16:14:26] [Info] Disconnect cdn.onnetwork.tv:443
+[2022-12-16 16:14:26] [Info] Connect sync.quantumdex.io:443
+[2022-12-16 16:14:26] [Info] Disconnect idsync.rlcdn.com:443
+[2022-12-16 16:14:26] [Info] Connect sync.quantumdex.io:443
+[2022-12-16 16:14:26] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-12-16 16:14:26] [Info] Disconnect io.narrative.io:443
+[2022-12-16 16:14:26] [Info] Disconnect js.cookieless-data.com:443
+[2022-12-16 16:14:26] [Info] Disconnect sync.srv.stackadapt.com:443
+[2022-12-16 16:14:26] [Info] Connect c1.adform.net:443
+[2022-12-16 16:14:26] [Info] Disconnect c1.adform.net:443
+[2022-12-16 16:14:26] [Info] Disconnect ads.playground.xyz:443
+[2022-12-16 16:14:26] [Info] Connect ad.mrtnsvr.com:443
+[2022-12-16 16:14:26] [Info] Connect simage2.pubmatic.com:443
+[2022-12-16 16:14:26] [Info] Connect eb2.3lift.com:443
+[2022-12-16 16:14:26] [Info] Connect eb2.3lift.com:443
+[2022-12-16 16:14:26] [Info] Connect ib.adnxs.com:443
+[2022-12-16 16:14:26] [Info] Connect beacon.lynx.cognitivlabs.com:443
+[2022-12-16 16:14:26] [Info] Connect image6.pubmatic.com:443
+[2022-12-16 16:14:26] [Info] Connect secure.adnxs.com:443
+[2022-12-16 16:14:26] [Info] Connect secure.adnxs.com:443
+[2022-12-16 16:14:26] [Info] Connect secure.adnxs.com:443
+[2022-12-16 16:14:26] [Info] Connect px.owneriq.net:443
+[2022-12-16 16:14:26] [Info] Connect ads.playground.xyz:443
+[2022-12-16 16:14:26] [Info] Disconnect ad.mrtnsvr.com:443
+[2022-12-16 16:14:26] [Info] Connect euexchangesync.digitaleast.mobi:443
+[2022-12-16 16:14:26] [Info] Connect io.narrative.io:443
+[2022-12-16 16:14:26] [Info] Disconnect sync.quantumdex.io:443
+[2022-12-16 16:14:26] [Info] Disconnect beacon.lynx.cognitivlabs.com:443
+[2022-12-16 16:14:26] [Info] Disconnect sync.quantumdex.io:443
+[2022-12-16 16:14:26] [Info] Disconnect sync.quantumdex.io:443
+[2022-12-16 16:14:26] [Info] Disconnect sync.adtelligent.com:443
+[2022-12-16 16:14:26] [Info] Disconnect ads.playground.xyz:443
+[2022-12-16 16:14:26] [Info] Connect matching.truffle.bid:443
+[2022-12-16 16:14:26] [Info] Connect m.adnxs.com:443
+[2022-12-16 16:14:26] [Info] Connect csync.loopme.me:443
+[2022-12-16 16:14:26] [Info] Disconnect ipac.ctnsnet.com:443
+[2022-12-16 16:14:26] [Info] Connect match.adsby.bidtheatre.com:443
+[2022-12-16 16:14:26] [Info] Disconnect px.owneriq.net:443
+[2022-12-16 16:14:26] [Info] Disconnect sync.quantumdex.io:443
+[2022-12-16 16:14:26] [Info] Disconnect cdnt.onnetwork.tv:443
+[2022-12-16 16:14:26] [Info] Disconnect image8.pubmatic.com:443
+[2022-12-16 16:14:26] [Info] Disconnect um.simpli.fi:443
+[2022-12-16 16:14:26] [Info] Disconnect sync.quantumdex.io:443
+[2022-12-16 16:14:26] [Info] Connect pm.w55c.net:443
+[2022-12-16 16:14:26] [Info] Disconnect matching.truffle.bid:443
+[2022-12-16 16:14:26] [Info] Disconnect s.tribalfusion.com:443
+[2022-12-16 16:14:26] [Info] Connect image8.pubmatic.com:443
+[2022-12-16 16:14:26] [Info] Disconnect api.retargetly.com:443
+[2022-12-16 16:14:26] [Info] Disconnect csync.loopme.me:443
+[2022-12-16 16:14:26] [Info] Disconnect sync.quantumdex.io:443
+[2022-12-16 16:14:26] [Info] Connect gocm.c.appier.net:443
+[2022-12-16 16:14:26] [Info] Disconnect pm.w55c.net:443
+[2022-12-16 16:14:26] [Info] Connect pm.w55c.net:443
+[2022-12-16 16:14:26] [Info] Connect image2.pubmatic.com:443
+[2022-12-16 16:14:26] [Info] Connect simage2.pubmatic.com:443
+[2022-12-16 16:14:26] [Info] Disconnect image8.pubmatic.com:443
+[2022-12-16 16:14:26] [Info] Connect simage2.pubmatic.com:443
+[2022-12-16 16:14:26] [Info] Disconnect gocm.c.appier.net:443
+[2022-12-16 16:14:27] [Info] Connect ads.playground.xyz:443
+[2022-12-16 16:14:27] [Info] Disconnect ad.turn.com:443
+[2022-12-16 16:14:27] [Info] Disconnect dpm.demdex.net:443
+[2022-12-16 16:14:27] [Info] Disconnect dmp.brand-display.com:443
+[2022-12-16 16:14:27] [Info] Connect image8.pubmatic.com:443
+[2022-12-16 16:14:27] [Info] Disconnect eb2.3lift.com:443
+[2022-12-16 16:14:27] [Info] Connect simage2.pubmatic.com:443
+[2022-12-16 16:14:27] [Info] Disconnect simage2.pubmatic.com:443
+[2022-12-16 16:14:27] [Info] Connect simage2.pubmatic.com:443
+[2022-12-16 16:14:27] [Info] Connect ad.turn.com:443
+[2022-12-16 16:14:27] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-12-16 16:14:27] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-12-16 16:14:27] [Info] Connect dsum.casalemedia.com:443
+[2022-12-16 16:14:27] [Info] Disconnect ad.mrtnsvr.com:443
+[2022-12-16 16:14:27] [Info] Disconnect ib.adnxs.com:443
+[2022-12-16 16:14:27] [Info] Connect ib.adnxs.com:443
+[2022-12-16 16:14:27] [Info] Disconnect beacon.lynx.cognitivlabs.com:443
+[2022-12-16 16:14:27] [Info] Disconnect c1.adform.net:443
+[2022-12-16 16:14:27] [Info] Disconnect ads.playground.xyz:443
+[2022-12-16 16:14:27] [Info] Connect match.adsrvr.org:443
+[2022-12-16 16:14:27] [Info] Connect m.adnxs.com:443
+[2022-12-16 16:14:27] [Info] Connect match.prod.bidr.io:443
+[2022-12-16 16:14:27] [Info] Connect match.prod.bidr.io:443
+[2022-12-16 16:14:27] [Info] Connect match.adsrvr.org:443
+[2022-12-16 16:14:27] [Info] Disconnect pm.w55c.net:443
+[2022-12-16 16:14:27] [Info] Connect match.sharethrough.com:443
+[2022-12-16 16:14:27] [Info] Connect match.sharethrough.com:443
+[2022-12-16 16:14:27] [Info] Connect odr.mookie1.com:443
+[2022-12-16 16:14:27] [Info] Disconnect ads.playground.xyz:443
+[2022-12-16 16:14:27] [Info] Disconnect eb2.3lift.com:443
+[2022-12-16 16:14:27] [Info] Connect onetag-sys.com:443
+[2022-12-16 16:14:27] [Info] Disconnect sync.1rx.io:443
+[2022-12-16 16:14:27] [Info] Disconnect x.bidswitch.net:443
+[2022-12-16 16:14:27] [Info] Disconnect m.adnxs.com:443
+[2022-12-16 16:14:27] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-12-16 16:14:27] [Info] Disconnect image8.pubmatic.com:443
+[2022-12-16 16:14:27] [Info] Connect optad360.mgr.consensu.org:443
+[2022-12-16 16:14:27] [Info] Connect match.adsrvr.org:443
+[2022-12-16 16:14:27] [Info] Disconnect euexchangesync.digitaleast.mobi:443
+[2022-12-16 16:14:27] [Info] Connect ads.playground.xyz:443
+[2022-12-16 16:14:27] [Info] Connect ums.acuityplatform.com:443
+[2022-12-16 16:14:27] [Info] Disconnect simage2.pubmatic.com:443
+[2022-12-16 16:14:27] [Info] Connect p.rfihub.com:443
+[2022-12-16 16:14:27] [Info] Disconnect simage2.pubmatic.com:443
+[2022-12-16 16:14:27] [Info] Disconnect io.narrative.io:443
+[2022-12-16 16:14:27] [Info] Connect beacon.lynx.cognitivlabs.com:443
+[2022-12-16 16:14:27] [Info] Connect pixel-eu.rubiconproject.com:443
+[2022-12-16 16:14:27] [Info] Connect pippio.com:443
+[2022-12-16 16:14:27] [Info] Connect image8.pubmatic.com:443
+[2022-12-16 16:14:27] [Info] Disconnect csync.loopme.me:443
+[2022-12-16 16:14:27] [Info] Disconnect ums.acuityplatform.com:443
+[2022-12-16 16:14:27] [Info] Disconnect image8.pubmatic.com:443
+[2022-12-16 16:14:27] [Info] Disconnect pm.w55c.net:443
+[2022-12-16 16:14:27] [Info] Disconnect matching.truffle.bid:443
+[2022-12-16 16:14:28] [Info] Disconnect match.adsby.bidtheatre.com:443
+[2022-12-16 16:14:28] [Info] Disconnect image2.pubmatic.com:443
+[2022-12-16 16:14:28] [Info] Disconnect secure.adnxs.com:443
+[2022-12-16 16:14:28] [Info] Disconnect pm.w55c.net:443
+[2022-12-16 16:14:28] [Info] Disconnect secure.adnxs.com:443
+[2022-12-16 16:14:28] [Info] Connect pixel-sync.sitescout.com:443
+[2022-12-16 16:14:28] [Info] Connect image2.pubmatic.com:443
+[2022-12-16 16:14:28] [Info] Connect pixel-us-east.rubiconproject.com:443
+[2022-12-16 16:14:28] [Info] Connect pixel-us-east.rubiconproject.com:443
+[2022-12-16 16:14:28] [Info] Connect pixel-us-east.rubiconproject.com:443
+[2022-12-16 16:14:28] [Info] Connect pixel.onaudience.com:443
+[2022-12-16 16:14:28] [Info] Connect image8.pubmatic.com:443
+[2022-12-16 16:14:28] [Info] Disconnect gocm.c.appier.net:443
+[2022-12-16 16:14:28] [Info] Disconnect ad.turn.com:443
+[2022-12-16 16:14:28] [Info] Disconnect simage2.pubmatic.com:443
+[2022-12-16 16:14:28] [Info] Connect pixel.rubiconproject.com:443
+[2022-12-16 16:14:28] [Info] Disconnect secure.adnxs.com:443
+[2022-12-16 16:14:28] [Info] Connect bh.contextweb.com:443
+[2022-12-16 16:14:28] [Info] Disconnect match.adsrvr.org:443
+[2022-12-16 16:14:28] [Info] Connect pixel.rubiconproject.com:443
+[2022-12-16 16:14:28] [Info] Disconnect core.iprom.net:443
+[2022-12-16 16:14:28] [Info] Connect cm-supply-web.gammaplatform.com:443
+[2022-12-16 16:14:28] [Info] Disconnect ib.adnxs.com:443
+[2022-12-16 16:14:28] [Info] Disconnect image6.pubmatic.com:443
+[2022-12-16 16:14:28] [Info] Disconnect match.adsrvr.org:443
+[2022-12-16 16:14:28] [Info] Connect cm.ambientdsp.com:443
+[2022-12-16 16:14:28] [Info] Connect core.iprom.net:443
+[2022-12-16 16:14:28] [Info] Disconnect odr.mookie1.com:443
+[2022-12-16 16:14:28] [Info] Connect csync.loopme.me:443
+[2022-12-16 16:14:28] [Info] Connect dps.jp.cinarra.com:443
+[2022-12-16 16:14:28] [Info] Connect gocm.c.appier.net:443
+[2022-12-16 16:14:28] [Info] Connect beacon.lynx.cognitivlabs.com:443
+[2022-12-16 16:14:28] [Info] Disconnect simage2.pubmatic.com:443
+[2022-12-16 16:14:28] [Info] Connect ipac.ctnsnet.com:443
+[2022-12-16 16:14:28] [Info] Connect ipac.ctnsnet.com:443
+[2022-12-16 16:14:28] [Info] Disconnect ads.playground.xyz:443
+[2022-12-16 16:14:28] [Info] Disconnect image8.pubmatic.com:443
+[2022-12-16 16:14:28] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-12-16 16:14:28] [Info] Disconnect ums.acuityplatform.com:443
+[2022-12-16 16:14:28] [Info] Connect pm.w55c.net:443
+[2022-12-16 16:14:29] [Info] Disconnect beacon.lynx.cognitivlabs.com:443
+[2022-12-16 16:14:29] [Info] Disconnect match.adsrvr.org:443
+[2022-12-16 16:14:29] [Info] Disconnect p.rfihub.com:443
+[2022-12-16 16:14:29] [Info] Disconnect dsum.casalemedia.com:443
+[2022-12-16 16:14:29] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-12-16 16:14:29] [Info] Disconnect match.prod.bidr.io:443
+[2022-12-16 16:14:29] [Info] Connect match.adsby.bidtheatre.com:443
+[2022-12-16 16:14:29] [Info] Connect match.adsby.bidtheatre.com:443
+[2022-12-16 16:14:29] [Info] Connect secure.adnxs.com:443
+[2022-12-16 16:14:29] [Info] Connect simage2.pubmatic.com:443
+[2022-12-16 16:14:29] [Info] Connect sync-dsp.ad-m.asia:443
+[2022-12-16 16:14:29] [Info] Disconnect match.sharethrough.com:443
+[2022-12-16 16:14:29] [Info] Connect sync.1rx.io:443
+[2022-12-16 16:14:29] [Info] Connect sync.1rx.io:443
+[2022-12-16 16:14:29] [Info] Connect image8.pubmatic.com:443
+[2022-12-16 16:14:29] [Info] Disconnect match.prod.bidr.io:443
+[2022-12-16 16:14:29] [Info] Disconnect m.adnxs.com:443
+[2022-12-16 16:14:29] [Info] Disconnect pixel-eu.rubiconproject.com:443
+[2022-12-16 16:14:29] [Info] Connect u-iad04.e-planning.net:443
+[2022-12-16 16:14:29] [Info] Connect u-iad04.e-planning.net:443
+[2022-12-16 16:14:29] [Info] Disconnect match.sharethrough.com:443
+[2022-12-16 16:14:29] [Info] Disconnect pixel.onaudience.com:443
+[2022-12-16 16:14:29] [Info] Disconnect image8.pubmatic.com:443
+[2022-12-16 16:14:29] [Info] Connect u-iad04.e-planning.net:443
+[2022-12-16 16:14:29] [Info] Disconnect pippio.com:443
+[2022-12-16 16:14:29] [Info] Disconnect ipac.ctnsnet.com:443
+[2022-12-16 16:14:29] [Info] Connect um.simpli.fi:443
+[2022-12-16 16:14:29] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-12-16 16:14:29] [Info] Connect ib.adnxs.com:443
+[2022-12-16 16:14:29] [Info] Disconnect onetag-sys.com:443
+[2022-12-16 16:14:29] [Info] Connect idsync.rlcdn.com:443
+[2022-12-16 16:14:29] [Info] Disconnect optad360.mgr.consensu.org:443
+[2022-12-16 16:14:29] [Info] Disconnect image2.pubmatic.com:443
+[2022-12-16 16:14:29] [Info] Disconnect ipac.ctnsnet.com:443
+[2022-12-16 16:14:29] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-12-16 16:14:30] [Info] Connect match.adsrvr.org:443
+[2022-12-16 16:14:30] [Info] Connect onetag-sys.com:443
+[2022-12-16 16:14:30] [Info] Connect pippio.com:443
+[2022-12-16 16:14:30] [Info] Connect pixel-eu.rubiconproject.com:443
+[2022-12-16 16:14:30] [Info] Disconnect pm.w55c.net:443
+[2022-12-16 16:14:30] [Info] Connect pixel.onaudience.com:443
+[2022-12-16 16:14:30] [Info] Connect image2.pubmatic.com:443
+[2022-12-16 16:14:30] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-12-16 16:14:30] [Info] Disconnect pixel-us-east.rubiconproject.com:443
+[2022-12-16 16:14:30] [Info] Disconnect gocm.c.appier.net:443
+[2022-12-16 16:14:30] [Info] Connect pixel.onaudience.com:443
+[2022-12-16 16:14:30] [Info] Connect pixel.rubiconproject.com:443
+[2022-12-16 16:14:30] [Info] Connect pixel.rubiconproject.com:443
+[2022-12-16 16:14:30] [Info] Connect pixel.rubiconproject.com:443
+[2022-12-16 16:14:30] [Info] Disconnect pixel-us-east.rubiconproject.com:443
+[2022-12-16 16:14:30] [Info] Disconnect pixel-us-east.rubiconproject.com:443
+[2022-12-16 16:14:30] [Info] Connect pixel.sitescout.com:443
+[2022-12-16 16:14:30] [Info] Connect pixel-sync.sitescout.com:443
+[2022-12-16 16:14:30] [Info] Connect sync.targeting.unrulymedia.com:443
+[2022-12-16 16:14:30] [Info] Disconnect secure.adnxs.com:443
+[2022-12-16 16:14:30] [Info] Disconnect cm.ambientdsp.com:443
+[2022-12-16 16:14:30] [Info] Connect image8.pubmatic.com:443
+[2022-12-16 16:14:30] [Info] Connect pixel.tapad.com:443
+[2022-12-16 16:14:30] [Info] Disconnect sync.1rx.io:443
+[2022-12-16 16:14:30] [Info] Connect pr-bh.ybp.yahoo.com:443
+[2022-12-16 16:14:30] [Info] Connect pr-bh.ybp.yahoo.com:443
+[2022-12-16 16:14:30] [Info] Connect pr-bh.ybp.yahoo.com:443
+[2022-12-16 16:14:30] [Info] Disconnect pixel-sync.sitescout.com:443
+[2022-12-16 16:14:30] [Info] Disconnect image8.pubmatic.com:443
+[2022-12-16 16:14:30] [Info] Disconnect dps.jp.cinarra.com:443
+[2022-12-16 16:14:30] [Info] Connect match.adsrvr.org:443
+[2022-12-16 16:14:30] [Info] Connect simage2.pubmatic.com:443
+[2022-12-16 16:14:30] [Info] Connect prebid-match.dotomi.com:443
+[2022-12-16 16:14:30] [Info] Disconnect u-iad04.e-planning.net:443
+[2022-12-16 16:14:30] [Info] Disconnect simage2.pubmatic.com:443
+[2022-12-16 16:14:30] [Info] Connect prebid-match.dotomi.com:443
+[2022-12-16 16:14:30] [Info] Disconnect pixel.rubiconproject.com:443
+[2022-12-16 16:14:30] [Info] Disconnect cm-supply-web.gammaplatform.com:443
+[2022-12-16 16:14:30] [Info] Direct connect px.ads.linkedin.com:443
+[2022-12-16 16:14:30] [Info] Disconnect um.simpli.fi:443
+[2022-12-16 16:14:30] [Info] Disconnect u-iad04.e-planning.net:443
+[2022-12-16 16:14:30] [Info] Disconnect sync.1rx.io:443
+[2022-12-16 16:14:30] [Info] Disconnect u-iad04.e-planning.net:443
+[2022-12-16 16:14:30] [Info] Disconnect sync-dsp.ad-m.asia:443
+[2022-12-16 16:14:30] [Info] Connect resources-rt.idx.lat:443
+[2022-12-16 16:14:30] [Info] Disconnect csync.loopme.me:443
+[2022-12-16 16:14:31] [Info] Connect p.adsymptotic.com:443
+[2022-12-16 16:14:31] [Info] Disconnect pixel.rubiconproject.com:443
+[2022-12-16 16:14:31] [Info] Connect simage2.pubmatic.com:443
+[2022-12-16 16:14:31] [Info] Connect ib.adnxs.com:443
+[2022-12-16 16:14:31] [Info] Direct connect px.ads.linkedin.com:443
+[2022-12-16 16:14:31] [Info] Disconnect pippio.com:443
+[2022-12-16 16:14:31] [Info] Connect sync.targeting.unrulymedia.com:443
+[2022-12-16 16:14:31] [Info] Connect rtb.mfadsrvr.com:443
+[2022-12-16 16:14:31] [Info] Disconnect beacon.lynx.cognitivlabs.com:443
+[2022-12-16 16:14:31] [Info] Disconnect bh.contextweb.com:443
+[2022-12-16 16:14:31] [Info] Connect rtb.openx.net:443
+[2022-12-16 16:14:31] [Info] Disconnect image2.pubmatic.com:443
+[2022-12-16 16:14:31] [Info] Connect s.ad.smaato.net:443
+[2022-12-16 16:14:31] [Info] Connect s.amazon-adsystem.com:443
+[2022-12-16 16:14:31] [Info] Connect loada.exelator.com:443
+[2022-12-16 16:14:31] [Info] Connect s.amazon-adsystem.com:443
+[2022-12-16 16:14:31] [Info] Connect s.amazon-adsystem.com:443
+[2022-12-16 16:14:31] [Info] Connect match.adsby.bidtheatre.com:443
+[2022-12-16 16:14:31] [Info] Disconnect sync.targeting.unrulymedia.com:443
+[2022-12-16 16:14:31] [Info] Disconnect pixel-sync.sitescout.com:443
+[2022-12-16 16:14:31] [Info] Connect pixel.sitescout.com:443
+[2022-12-16 16:14:31] [Info] Disconnect pixel.rubiconproject.com:443
+[2022-12-16 16:14:31] [Info] Connect sync.1rx.io:443
+[2022-12-16 16:14:31] [Info] Disconnect match.adsrvr.org:443
+[2022-12-16 16:14:31] [Info] Connect s.amazon-adsystem.com:443
+[2022-12-16 16:14:31] [Info] Connect pr-bh.ybp.yahoo.com:443
+[2022-12-16 16:14:31] [Info] Disconnect pixel.sitescout.com:443
+[2022-12-16 16:14:31] [Info] Disconnect match.adsby.bidtheatre.com:443
+[2022-12-16 16:14:31] [Info] Connect eb2.3lift.com:443
+[2022-12-16 16:14:31] [Info] Disconnect idsync.rlcdn.com:443
+[2022-12-16 16:14:31] [Info] Disconnect match.adsrvr.org:443
+[2022-12-16 16:14:31] [Info] Connect simage2.pubmatic.com:443
+[2022-12-16 16:14:31] [Info] Connect onetag-sys.com:443
+[2022-12-16 16:14:31] [Info] Disconnect pr-bh.ybp.yahoo.com:443
+[2022-12-16 16:14:31] [Info] Direct connect s0.2mdn.net:443
+[2022-12-16 16:14:31] [Info] Connect s.company-target.com:443
+[2022-12-16 16:14:31] [Info] Disconnect pixel.onaudience.com:443
+[2022-12-16 16:14:31] [Info] Direct connect s0.2mdn.net:443
+[2022-12-16 16:14:31] [Info] Connect simage4.pubmatic.com:443
+[2022-12-16 16:14:31] [Info] Connect resources-rt.idx.lat:443
+[2022-12-16 16:14:31] [Info] Disconnect onetag-sys.com:443
+[2022-12-16 16:14:31] [Info] Connect prebid-match.dotomi.com:443
+[2022-12-16 16:14:31] [Info] Disconnect ib.adnxs.com:443
+[2022-12-16 16:14:31] [Info] Connect simage4.pubmatic.com:443
+[2022-12-16 16:14:32] [Info] Connect simage4.pubmatic.com:443
+[2022-12-16 16:14:32] [Info] Connect simage4.pubmatic.com:443
+[2022-12-16 16:14:32] [Info] Connect rt.idx.lat:443
+[2022-12-16 16:14:32] [Info] Disconnect prebid-match.dotomi.com:443
+[2022-12-16 16:14:32] [Info] Disconnect resources-rt.idx.lat:443
+[2022-12-16 16:14:32] [Info] Disconnect pixel.rubiconproject.com:443
+[2022-12-16 16:14:32] [Info] Connect ssbsync-global.smartadserver.com:443
+[2022-12-16 16:14:32] [Info] Disconnect simage2.pubmatic.com:443
+[2022-12-16 16:14:32] [Info] Disconnect pr-bh.ybp.yahoo.com:443
+[2022-12-16 16:14:32] [Info] Disconnect pixel.onaudience.com:443
+[2022-12-16 16:14:32] [Info] Disconnect pixel.rubiconproject.com:443
+[2022-12-16 16:14:32] [Info] Disconnect pr-bh.ybp.yahoo.com:443
+[2022-12-16 16:14:32] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-12-16 16:14:32] [Info] Disconnect ib.adnxs.com:443
+[2022-12-16 16:14:32] [Info] Connect prebid-match.dotomi.com:443
+[2022-12-16 16:14:32] [Info] Connect prebid-match.dotomi.com:443
+[2022-12-16 16:14:32] [Info] Connect sync.mathtag.com:443
+[2022-12-16 16:14:32] [Info] Connect sync.mathtag.com:443
+[2022-12-16 16:14:32] [Info] Connect sync.quantumdex.io:443
+[2022-12-16 16:14:32] [Info] Connect ssc-cms.33across.com:443
+[2022-12-16 16:14:32] [Info] Connect sync-tm.everesttech.net:443
+[2022-12-16 16:14:32] [Info] Connect sync.ipredictive.com:443
+[2022-12-16 16:14:32] [Info] Disconnect core.iprom.net:443
+[2022-12-16 16:14:32] [Info] Connect token.rubiconproject.com:443
+[2022-12-16 16:14:32] [Info] Connect us-u.openx.net:443
+[2022-12-16 16:14:32] [Info] Disconnect simage2.pubmatic.com:443
+[2022-12-16 16:14:32] [Info] Connect sync.mathtag.com:443
+[2022-12-16 16:14:32] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:14:32] [Info] Connect x.bidswitch.net:443
+[2022-12-16 16:14:32] [Info] Connect visitor.fiftyt.com:443
+[2022-12-16 16:14:32] [Info] Connect match.adsby.bidtheatre.com:443
+[2022-12-16 16:14:32] [Info] Connect clients4.google.com:443
+[2022-12-16 16:14:32] [Info] Connect prebid-match.dotomi.com:443
+[2022-12-16 16:14:32] [Info] Connect sync.mathtag.com:443
+[2022-12-16 16:14:32] [Info] Connect csm.da.us.criteo.net:443
+[2022-12-16 16:14:32] [Info] Connect match.adsby.bidtheatre.com:443
+[2022-12-16 16:14:32] [Info] Connect ups.analytics.yahoo.com:443
+[2022-12-16 16:14:32] [Info] Connect px.owneriq.net:443
+[2022-12-16 16:14:32] [Info] Connect image8.pubmatic.com:443
+[2022-12-16 16:14:32] [Info] Connect crt.sectigo.com:80
+[2022-12-16 16:14:32] [Info] Disconnect pixel.tapad.com:443
+[2022-12-16 16:14:32] [Info] Disconnect s.ad.smaato.net:443
+[2022-12-16 16:14:32] [Info] Disconnect rtb.openx.net:443
+[2022-12-16 16:14:32] [Info] Disconnect match.adsby.bidtheatre.com:443
+[2022-12-16 16:14:32] [Info] Disconnect s.amazon-adsystem.com:443
+[2022-12-16 16:14:32] [Info] Disconnect sync.1rx.io:443
+[2022-12-16 16:14:32] [Info] Disconnect sync.targeting.unrulymedia.com:443
+[2022-12-16 16:14:32] [Info] Disconnect rtb.mfadsrvr.com:443
+[2022-12-16 16:14:32] [Info] Disconnect eb2.3lift.com:443
+[2022-12-16 16:14:32] [Info] Disconnect mweb.ck.inmobi.com:443
+[2022-12-16 16:14:32] [Info] Disconnect px.owneriq.net:443
+[2022-12-16 16:14:32] [Info] Disconnect s.amazon-adsystem.com:443
+[2022-12-16 16:14:32] [Info] Disconnect pixel-eu.rubiconproject.com:443
+[2022-12-16 16:14:32] [Info] Disconnect simage2.pubmatic.com:443
+[2022-12-16 16:14:32] [Info] Disconnect image8.pubmatic.com:443
+[2022-12-16 16:14:32] [Info] Disconnect prebid-match.dotomi.com:443
+[2022-12-16 16:14:32] [Info] Disconnect simage4.pubmatic.com:443
+[2022-12-16 16:14:32] [Info] Disconnect match.adsby.bidtheatre.com:443
+[2022-12-16 16:14:32] [Info] Disconnect simage4.pubmatic.com:443
+[2022-12-16 16:14:32] [Info] Disconnect sync.mathtag.com:443
+[2022-12-16 16:14:32] [Info] Disconnect ssc-cms.33across.com:443
+[2022-12-16 16:14:32] [Info] Disconnect prebid-match.dotomi.com:443
+[2022-12-16 16:14:32] [Info] Disconnect p.adsymptotic.com:443
+[2022-12-16 16:14:33] [Info] Disconnect s.amazon-adsystem.com:443
+[2022-12-16 16:14:33] [Info] Disconnect pixel.sitescout.com:443
+[2022-12-16 16:14:33] [Info] Disconnect crt.sectigo.com:80
+[2022-12-16 16:14:33] [Info] Disconnect pr-bh.ybp.yahoo.com:443
+[2022-12-16 16:14:33] [Info] Disconnect resources-rt.idx.lat:443
+[2022-12-16 16:14:33] [Info] Disconnect prebid-match.dotomi.com:443
+[2022-12-16 16:14:34] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:14:34] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:14:34] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:14:34] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:14:34] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:14:34] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:14:34] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:14:35] [Info] Disconnect image8.pubmatic.com:443
+[2022-12-16 16:14:35] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:14:35] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:14:35] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:14:35] [Info] Disconnect loada.exelator.com:443
+[2022-12-16 16:14:35] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:14:36] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:14:36] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:14:36] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:14:36] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:14:36] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:14:36] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:14:36] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:14:36] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:14:36] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:14:36] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:14:37] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:14:37] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:14:37] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:14:37] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:14:38] [Info] Disconnect match.adsby.bidtheatre.com:443
+[2022-12-16 16:14:39] [Info] Disconnect match.adsby.bidtheatre.com:443
+[2022-12-16 16:14:39] [Info] Direct connect www.gstatic.com:443
+[2022-12-16 16:14:39] [Info] Connect id.google.com.hk:443
+[2022-12-16 16:14:40] [Info] Connect play.google.com:443
+[2022-12-16 16:14:41] [Info] Direct connect adservice.google.com:443
+[2022-12-16 16:14:41] [Info] Direct connect blog.csdn.net:443
+[2022-12-16 16:14:41] [Info] Direct connect blog.csdn.net:443
+[2022-12-16 16:14:41] [Info] Direct connect g.csdnimg.cn:443
+[2022-12-16 16:14:41] [Info] Direct connect dup.baidustatic.com:443
+[2022-12-16 16:14:41] [Info] Direct connect csdnimg.cn:443
+[2022-12-16 16:14:41] [Info] Direct connect event.csdn.net:443
+[2022-12-16 16:14:41] [Info] Connect adservice.google.com.hk:443
+[2022-12-16 16:14:41] [Info] Disconnect prebid-match.dotomi.com:443
+[2022-12-16 16:14:41] [Info] Disconnect onetag-sys.com:443
+[2022-12-16 16:14:41] [Info] Disconnect prebid-match.dotomi.com:443
+[2022-12-16 16:14:41] [Info] Disconnect px.owneriq.net:443
+[2022-12-16 16:14:42] [Info] Disconnect s.amazon-adsystem.com:443
+[2022-12-16 16:14:42] [Info] Connect www.google.com:443
+[2022-12-16 16:14:42] [Info] Direct connect event.csdn.net:443
+[2022-12-16 16:14:42] [Info] Direct connect csdnimg.cn:443
+[2022-12-16 16:14:42] [Info] Direct connect g.csdnimg.cn:443
+[2022-12-16 16:14:42] [Info] Direct connect img-home.csdnimg.cn:443
+[2022-12-16 16:14:42] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-12-16 16:14:42] [Info] Direct connect silkroad.csdn.net:443
+[2022-12-16 16:14:42] [Info] Direct connect kunpeng.csdn.net:443
+[2022-12-16 16:14:42] [Info] Direct connect msg.csdn.net:443
+[2022-12-16 16:14:43] [Info] Disconnect s.company-target.com:443
+[2022-12-16 16:14:43] [Info] Direct connect msg.csdn.net:443
+[2022-12-16 16:14:43] [Info] Disconnect simage4.pubmatic.com:443
+[2022-12-16 16:14:43] [Info] Direct connect img-blog.csdnimg.cn:443
+[2022-12-16 16:14:43] [Info] Disconnect sync-tm.everesttech.net:443
+[2022-12-16 16:14:43] [Info] Disconnect simage4.pubmatic.com:443
+[2022-12-16 16:14:43] [Info] Disconnect ssbsync-global.smartadserver.com:443
+[2022-12-16 16:14:43] [Info] Direct connect blog.csdn.net:443
+[2022-12-16 16:14:43] [Info] Direct connect pos.baidu.com:443
+[2022-12-16 16:14:43] [Info] Direct connect img-operation.csdnimg.cn:443
+[2022-12-16 16:14:43] [Info] Direct connect devpress-api.csdn.net:443
+[2022-12-16 16:14:43] [Info] Direct connect blog.csdn.net:443
+[2022-12-16 16:14:43] [Info] Direct connect blog.csdn.net:443
+[2022-12-16 16:14:43] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-16 16:14:43] [Info] Disconnect sync.ipredictive.com:443
+[2022-12-16 16:14:43] [Info] Direct connect img-home.csdnimg.cn:443
+[2022-12-16 16:14:43] [Info] Disconnect sync.mathtag.com:443
+[2022-12-16 16:14:43] [Info] Direct connect profile.csdnimg.cn:443
+[2022-12-16 16:14:43] [Info] Disconnect sync.mathtag.com:443
+[2022-12-16 16:14:43] [Info] Disconnect sync.mathtag.com:443
+[2022-12-16 16:14:43] [Info] Disconnect sync.quantumdex.io:443
+[2022-12-16 16:14:43] [Info] Disconnect token.rubiconproject.com:443
+[2022-12-16 16:14:43] [Info] Disconnect ups.analytics.yahoo.com:443
+[2022-12-16 16:14:43] [Info] Disconnect us-u.openx.net:443
+[2022-12-16 16:14:43] [Info] Disconnect visitor.fiftyt.com:443
+[2022-12-16 16:14:43] [Info] Direct connect profile-avatar.csdnimg.cn:443
+[2022-12-16 16:14:43] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:14:43] [Info] Disconnect csm.da.us.criteo.net:443
+[2022-12-16 16:14:43] [Info] Direct connect cpro.baidustatic.com:443
+[2022-12-16 16:14:43] [Info] Direct connect wn.pos.baidu.com:443
+[2022-12-16 16:14:43] [Info] Direct connect lupic.cdn.bcebos.com:443
+[2022-12-16 16:14:43] [Info] Direct connect redisdatarecall.csdn.net:443
+[2022-12-16 16:14:43] [Info] Disconnect x.bidswitch.net:443
+[2022-12-16 16:14:43] [Info] Disconnect rt.idx.lat:443
+[2022-12-16 16:14:43] [Info] Disconnect clients4.google.com:443
+[2022-12-16 16:14:43] [Info] Disconnect adservice.google.com.hk:443
+[2022-12-16 16:14:43] [Info] Disconnect id.google.com.hk:443
+[2022-12-16 16:14:43] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:14:43] [Info] Disconnect play.google.com:443
+[2022-12-16 16:14:43] [Info] Direct connect googleads.g.doubleclick.net:443
+[2022-12-16 16:14:43] [Info] Direct connect g.csdnimg.cn:443
+[2022-12-16 16:14:43] [Info] Direct connect img-blog.csdnimg.cn:443
+[2022-12-16 16:14:43] [Info] Direct connect event.csdn.net:443
+[2022-12-16 16:14:43] [Info] Direct connect cpro.baidustatic.com:443
+[2022-12-16 16:14:43] [Info] Direct connect profile.csdnimg.cn:443
+[2022-12-16 16:14:44] [Info] Direct connect www.googleadservices.com:443
+[2022-12-16 16:14:44] [Info] Direct connect hm.baidu.com:443
+[2022-12-16 16:14:44] [Info] Direct connect s3a.pstatp.com:443
+[2022-12-16 16:14:44] [Info] Connect ogs.google.com.hk:443
+[2022-12-16 16:14:44] [Info] Direct connect www.googletagmanager.com:443
+[2022-12-16 16:14:44] [Info] Direct connect zz.bdstatic.com:443
+[2022-12-16 16:14:44] [Info] Direct connect kunyu.csdn.net:443
+[2022-12-16 16:14:44] [Info] Direct connect sofire.bdstatic.com:443
+[2022-12-16 16:14:44] [Info] Direct connect gsp0.baidu.com:443
+[2022-12-16 16:14:44] [Info] Direct connect pos.baidu.com:443
+[2022-12-16 16:14:44] [Info] Direct connect profile-avatar.csdnimg.cn:443
+[2022-12-16 16:14:45] [Info] Direct connect sofire.baidu.com:443
+[2022-12-16 16:14:45] [Info] Direct connect sofire.baidu.com:443
+[2022-12-16 16:14:45] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-12-16 16:14:45] [Info] Direct connect zhanzhang.toutiao.com:443
+[2022-12-16 16:14:45] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:14:45] [Info] Direct connect www.gstatic.com:443
+[2022-12-16 16:14:45] [Info] Direct connect ssl.gstatic.com:443
+[2022-12-16 16:14:45] [Info] Direct connect www.google-analytics.com:443
+[2022-12-16 16:14:45] [Info] Direct connect sp0.baidu.com:443
+[2022-12-16 16:14:45] [Info] Direct connect adservice.google.com:443
+[2022-12-16 16:14:45] [Info] Direct connect partner.googleadservices.com:443
+[2022-12-16 16:14:45] [Info] Direct connect stats.g.doubleclick.net:443
+[2022-12-16 16:14:45] [Info] Direct connect statistic.csdn.net:443
+[2022-12-16 16:14:45] [Info] Direct connect zhannei-dm.csdn.net:443
+[2022-12-16 16:14:45] [Info] Connect fundingchoicesmessages.google.com:443
+[2022-12-16 16:14:46] [Info] Direct connect tpc.googlesyndication.com:443
+[2022-12-16 16:14:46] [Info] Direct connect www.googletagservices.com:443
+[2022-12-16 16:14:46] [Info] Direct connect event.csdn.net:443
+[2022-12-16 16:14:46] [Info] Connect clients4.google.com:443
+[2022-12-16 16:14:46] [Info] Disconnect www.google.com:443
+[2022-12-16 16:14:46] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-16 16:14:46] [Info] Disconnect ogs.google.com.hk:443
+[2022-12-16 16:14:46] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:14:46] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-12-16 16:14:46] [Info] Connect c1.adform.net:443
+[2022-12-16 16:14:46] [Info] Connect s.ad.smaato.net:443
+[2022-12-16 16:14:46] [Info] Connect onetag-sys.com:443
+[2022-12-16 16:14:46] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-12-16 16:14:46] [Info] Connect b1sync.zemanta.com:443
+[2022-12-16 16:14:46] [Info] Connect sync.inmobi.com:443
+[2022-12-16 16:14:47] [Info] Disconnect b1sync.zemanta.com:443
+[2022-12-16 16:14:47] [Info] Connect b1sync.zemanta.com:443
+[2022-12-16 16:14:47] [Info] Connect fundingchoicesmessages.google.com:443
+[2022-12-16 16:14:47] [Info] Direct connect blog.csdn.net:443
+[2022-12-16 16:14:47] [Info] Connect id5-sync.com:443
+[2022-12-16 16:14:47] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-12-16 16:14:47] [Info] Direct connect beacon.tingyun.com:443
+[2022-12-16 16:14:48] [Info] Disconnect b1sync.zemanta.com:443
+[2022-12-16 16:14:48] [Info] Direct connect hm.baidu.com:443
+[2022-12-16 16:14:48] [Info] Direct connect eclick.baidu.com:443
+[2022-12-16 16:14:48] [Info] Connect www.google.com:443
+[2022-12-16 16:14:49] [Info] Direct connect kunyu.csdn.net:443
+[2022-12-16 16:14:50] [Info] Connect clients4.google.com:443
+[2022-12-16 16:14:50] [Info] Direct connect update.googleapis.com:443
+[2022-12-16 16:14:55] [Info] Connect accounts.google.com:443
+[2022-12-16 16:14:55] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2022-12-16 16:14:55] [Info] Connect e2c41.gcp.gvt2.com:443
+[2022-12-16 16:14:55] [Info] Disconnect id5-sync.com:443
+[2022-12-16 16:14:57] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:14:57] [Info] Direct connect beacons.gvt2.com:443
+[2022-12-16 16:15:00] [Info] Disconnect mtalk.google.com:5228
+[2022-12-16 16:15:00] [Info] Connect mtalk.google.com:5228
+[2022-12-16 16:15:00] [Info] Disconnect www.google.com:443
+[2022-12-16 16:15:00] [Info] Disconnect accounts.google.com:443
+[2022-12-16 16:15:00] [Info] Disconnect onetag-sys.com:443
+[2022-12-16 16:15:02] [Info] Disconnect e2c41.gcp.gvt2.com:443
+[2022-12-16 16:15:06] [Info] Disconnect s.ad.smaato.net:443
+[2022-12-16 16:15:06] [Info] Disconnect clients4.google.com:443
+[2022-12-16 16:15:06] [Info] Disconnect sync.inmobi.com:443
+[2022-12-16 16:15:06] [Info] Disconnect fundingchoicesmessages.google.com:443
+[2022-12-16 16:15:06] [Info] Disconnect mtalk.google.com:5228
+[2022-12-16 16:15:06] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:15:06] [Info] Disconnect fundingchoicesmessages.google.com:443
+[2022-12-16 16:15:06] [Info] Disconnect c1.adform.net:443
+[2022-12-16 16:15:06] [Info] Disconnect clients4.google.com:443
+[2022-12-16 16:15:06] [Debug] DNS query fail: ipv6.msftconnecttest.com
+[2022-12-16 16:15:06] [Info] Connect ipv6.msftconnecttest.com:80
+[2022-12-16 16:15:07] [Info] Connect www.google.com:443
+[2022-12-16 16:15:07] [Info] Connect clients4.google.com:443
+[2022-12-16 16:15:07] [Info] Disconnect ipv6.msftconnecttest.com:80
+[2022-12-16 16:15:07] [Info] Disconnect www.google.com:443
+[2022-12-16 16:15:07] [Info] Connect www.google.com:443
+[2022-12-16 16:15:14] [Info] Direct connect bizapi.csdn.net:443
+[2022-12-16 16:15:14] [Info] Direct connect bizapi.csdn.net:443
+[2022-12-16 16:15:16] [Info] Connect google.com:443
+[2022-12-16 16:15:25] [Info] Connect clients4.google.com:443
+[2022-12-16 16:15:27] [Info] Direct connect hm.baidu.com:443
+[2022-12-16 16:15:30] [Info] Connect mtalk.google.com:5228
+[2022-12-16 16:15:50] [Info] Direct connect hm.baidu.com:443
+[2022-12-16 16:16:00] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:16:00] [Info] Connect accounts.google.com:443
+[2022-12-16 16:16:00] [Info] Direct connect hm.baidu.com:443
+[2022-12-16 16:16:00] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:16:00] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:16:05] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:16:05] [Info] Direct connect www.zhihu.com:443
+[2022-12-16 16:16:05] [Info] Direct connect static.zhihu.com:443
+[2022-12-16 16:16:05] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:16:05] [Info] Direct connect static.zhihu.com:443
+[2022-12-16 16:16:05] [Info] Direct connect unpkg.zhimg.com:443
+[2022-12-16 16:16:05] [Info] Direct connect picx.zhimg.com:443
+[2022-12-16 16:16:05] [Info] Direct connect pic1.zhimg.com:443
+[2022-12-16 16:16:06] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:16:06] [Info] Direct connect zz.bdstatic.com:443
+[2022-12-16 16:16:06] [Info] Direct connect pic3.zhimg.com:443
+[2022-12-16 16:16:06] [Info] Direct connect api.zhihu.com:443
+[2022-12-16 16:16:06] [Info] Connect content-autofill.googleapis.com:443
+[2022-12-16 16:16:06] [Info] Direct connect pica.zhimg.com:443
+[2022-12-16 16:16:06] [Info] Direct connect api.zhihu.com:443
+[2022-12-16 16:16:06] [Info] Direct connect sp0.baidu.com:443
+[2022-12-16 16:16:06] [Info] Direct connect mqtt-web.zhihu.com:443
+[2022-12-16 16:16:07] [Info] Direct connect pic2.zhimg.com:443
+[2022-12-16 16:16:07] [Info] Direct connect 118.89.204.198:443
+[2022-12-16 16:16:07] [Info] Direct connect sugar.zhihu.com:443
+[2022-12-16 16:16:07] [Info] Disconnect google.com:443
+[2022-12-16 16:16:07] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:16:07] [Info] Disconnect clients4.google.com:443
+[2022-12-16 16:16:07] [Info] Disconnect accounts.google.com:443
+[2022-12-16 16:16:07] [Info] Disconnect www.google.com:443
+[2022-12-16 16:16:07] [Info] Direct connect datahub.zhihu.com:443
+[2022-12-16 16:16:07] [Info] Direct connect zhihu-web-analytics.zhihu.com:443
+[2022-12-16 16:16:07] [Info] Direct connect zhihu-web-analytics.zhihu.com:443
+[2022-12-16 16:16:07] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:16:07] [Info] Direct connect cpro.baidustatic.com:443
+[2022-12-16 16:16:07] [Info] Direct connect pos.baidu.com:443
+[2022-12-16 16:16:08] [Info] Direct connect wn.pos.baidu.com:443
+[2022-12-16 16:16:08] [Info] Direct connect lupic.cdn.bcebos.com:443
+[2022-12-16 16:16:08] [Info] Direct connect t10.baidu.com:443
+[2022-12-16 16:16:08] [Info] Direct connect eclick.baidu.com:443
+[2022-12-16 16:16:08] [Info] Direct connect apm.zhihu.com:443
+[2022-12-16 16:16:10] [Info] Direct connect pic1.zhimg.com:443
+[2022-12-16 16:16:11] [Info] Connect clients4.google.com:443
+[2022-12-16 16:16:21] [Info] Connect self.events.data.microsoft.com:443
+[2022-12-16 16:16:22] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-12-16 16:16:31] [Info] Direct connect hm.baidu.com:443
+[2022-12-16 16:16:31] [Info] Connect www.google.com.hk:443
+[2022-12-16 16:16:31] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2022-12-16 16:16:31] [Info] Connect google.com:443
+[2022-12-16 16:16:47] [Info] Direct connect www.gstatic.com:443
+[2022-12-16 16:16:49] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2022-12-16 16:16:50] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2022-12-16 16:16:50] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2022-12-16 16:16:50] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2022-12-16 16:16:50] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2022-12-16 16:16:50] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2022-12-16 16:16:50] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2022-12-16 16:16:51] [Info] Connect adservice.google.com.hk:443
+[2022-12-16 16:16:51] [Info] Connect www.google.com:443
+[2022-12-16 16:16:52] [Info] Direct connect www.googleadservices.com:443
+[2022-12-16 16:16:52] [Info] Connect ogs.google.com.hk:443
+[2022-12-16 16:16:54] [Info] Direct connect ssl.gstatic.com:443
+[2022-12-16 16:17:00] [Info] Direct connect class.m.imooc.com:443
+[2022-12-16 16:17:00] [Info] Direct connect class.m.imooc.com:443
+[2022-12-16 16:17:01] [Info] Direct connect class.m.imooc.com:443
+[2022-12-16 16:17:01] [Info] Direct connect class.m.imooc.com:443
+[2022-12-16 16:17:01] [Info] Direct connect class.m.imooc.com:443
+[2022-12-16 16:17:01] [Info] Direct connect class.m.imooc.com:443
+[2022-12-16 16:17:01] [Info] Direct connect img.mukewang.com:443
+[2022-12-16 16:17:01] [Info] Direct connect lf1-cdn-tos.bytegoofy.com:443
+[2022-12-16 16:17:01] [Info] Direct connect zhanzhang.toutiao.com:443
+[2022-12-16 16:17:01] [Info] Direct connect hm.baidu.com:443
+[2022-12-16 16:17:01] [Info] Direct connect zz.bdstatic.com:443
+[2022-12-16 16:17:01] [Info] Direct connect www.imooc.com:443
+[2022-12-16 16:17:01] [Info] Direct connect www.imooc.com:443
+[2022-12-16 16:17:01] [Info] Direct connect www.imooc.com:443
+[2022-12-16 16:17:01] [Info] Direct connect sp0.baidu.com:443
+[2022-12-16 16:17:01] [Info] Direct connect sensordata.open.com.cn:443
+[2022-12-16 16:17:01] [Info] Direct connect sensordata.open.com.cn:443
+[2022-12-16 16:17:23] [Info] Direct connect hm.baidu.com:443
+[2022-12-16 16:17:23] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2022-12-16 16:17:23] [Info] Disconnect google.com:443
+[2022-12-16 16:17:23] [Info] Disconnect adservice.google.com.hk:443
+[2022-12-16 16:17:23] [Info] Disconnect clients4.google.com:443
+[2022-12-16 16:17:23] [Info] Disconnect mtalk.google.com:5228
+[2022-12-16 16:17:23] [Info] Disconnect www.google.com.hk:443
+[2022-12-16 16:17:23] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-12-16 16:17:23] [Info] Disconnect ogs.google.com.hk:443
+[2022-12-16 16:17:23] [Info] Disconnect www.google.com:443
+[2022-12-16 16:17:23] [Info] Disconnect clients4.google.com:443

@@ -1,0 +1,16 @@
+主机临时域名：q985286227.gz01.bdysite.com；
+独立控制面板：login.bcehost.com；
+主机管理账号：q985286227；
+主机管理密码：已发送至手机；
+FTP地址：q985286227.ftp-gz01.bcehost.com；
+FTP端口号：21；
+FTP登录账号：q985286227；
+FTP密码：已发送至手机；
+MySQL连接地址：b-a7uhtqvnul2mds.bch.rds.gz.baidubce.com；
+MySQL端口号：3306；
+MySQL数据库名：b_a7uhtqvnul2mds；
+MySQL账号：b_a7uhtqvnul2mds；
+MySQL密码：******；
+管理联系人：moluyangyu；
+管理联系人手机号：135*****747；
+管理联系人邮箱：-；

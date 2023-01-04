@@ -1,0 +1,72 @@
+{
+  "version": "4.1.10.0",
+  "configs": [
+    {
+      "server": "ss1.ssweb1.xyz",
+      "server_port": 12279,
+      "password": "dongtaiwang.com",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "v2ray-plugin",
+      "plugin_opts": "host=cloudfront.com;path=/q6ORI;mux=8",
+      "plugin_args": "",
+      "remarks": "www.dongtaiwang.com 洛杉矶1",
+      "timeout": 5
+    },
+    {
+      "server": "ss2.ssweb1.xyz",
+      "server_port": 12279,
+      "password": "dongtaiwang.com",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "v2ray-plugin",
+      "plugin_opts": "host=cloudfront.com;path=/q6ORI;mux=8",
+      "plugin_args": "",
+      "remarks": "www.dongtaiwang.com 洛杉矶3",
+      "timeout": 5
+    }
+  ],
+  "strategy": "com.shadowsocks.strategy.ha",
+  "index": -1,
+  "global": true,
+  "enabled": false,
+  "shareOverLan": false,
+  "isDefault": false,
+  "isIPv6Enabled": false,
+  "localPort": 1080,
+  "portableMode": true,
+  "showPluginOutput": false,
+  "pacUrl": null,
+  "gfwListUrl": null,
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": false,
+  "checkPreRelease": false,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3,
+    "useAuth": false,
+    "authUser": "",
+    "authPwd": ""
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "SwitchSystemProxyMode": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": "",
+    "RegHotkeysAtStartup": false
+  }
+}

@@ -1,0 +1,75 @@
+{
+	"configs" : [
+		{
+			"remarks" : "https://github.com/Alvin9999/new-pac/wiki 洛杉矶1SSR",
+			"id" : "89AC3B6482642B712E7B474279834888",
+			"server" : "ssr1.ssrfree7.xyz",
+			"server_port" : 22333,
+			"server_udp_port" : 0,
+			"password" : "dongtaiwang.com",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_chain_a",
+			"protocolparam" : "",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "aHR0cHM6Ly9naXRodWIuY29tL0FsdmluOTk5OS9uZXctcGFjL3dpa2kg5rSb5p2J55-2MVNTUg",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "https://github.com/Alvin9999/new-pac/wiki 洛杉矶1SSR",
+			"id" : "1CDCE1E089E01049F4D41D9637452B7E",
+			"server" : "ssr4.ssrfree7.xyz",
+			"server_port" : 11444,
+			"server_udp_port" : 0,
+			"password" : "dongtaiwang.com",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_chain_a",
+			"protocolparam" : "",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "aHR0cHM6Ly9naXRodWIuY29tL0FsdmluOTk5OS9uZXctcGFjL3dpa2kg5rSb5p2J55-2MVNTUg",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 2,
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 2,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : "",
+	"proxyPort" : 0,
+	"proxyAuthUser" : "",
+	"proxyAuthPass" : "",
+	"proxyUserAgent" : "",
+	"authUser" : "",
+	"authPass" : "",
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : true,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}

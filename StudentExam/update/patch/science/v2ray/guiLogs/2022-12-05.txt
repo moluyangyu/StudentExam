@@ -1,0 +1,4 @@
+2022-12-05 19:30:09,204 [1] INFO  Log1 - v2rayN start up | v2rayN - V5.38 - 2022/11/02 | C:\Users\86135\Desktop\patch\CHROME~1.3\v2ray\v2rayN.exe
+2022-12-05 19:31:09,980 [4] INFO  Log1 - UpdateTaskRun
+2022-12-05 19:34:18,392 [1] INFO  Log1 - MyAppExit Begin
+2022-12-05 19:34:18,543 [1] INFO  Log1 - MyAppExit End
